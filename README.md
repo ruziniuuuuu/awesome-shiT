@@ -9,3 +9,6 @@ A collection of awesome ShiT on GitHub.
 - [hajimi-encoder](https://github.com/Warma10032/hajimi-encoder.git): 哈基米加密器，让你的文字全部变成哈基米！
 - [kobe_numbers](https://github.com/YouXam/kobe_numbers.git): 让你的数字变成牢大！
 - [LaoDaSong](https://github.com/Xzhao233/LaoDaSong.git): 让牢大唱出你的歌曲，牢大冰红茶我们想你了😭😭😭。
+- [YYDZ](https://github.com/SaltyfishLeavesyoung/YYDZ.git): 丁真宇宙，一眼丁真合集，已有两千多张图片。
+- [DingZhen](https://github.com/Brx86/DingZhen.git): 一眼丁真合集与Api，目前已收集504张。
+- [otto-hzys](https://github.com/hua-zhi-wan/otto-hzys.git): 电棍otto语音活字印刷生成器。
