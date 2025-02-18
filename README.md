@@ -15,3 +15,4 @@ A collection of awesome ShiT on GitHub.
 - [otto-hzys](https://github.com/hua-zhi-wan/otto-hzys.git): 电棍otto语音活字印刷生成器。
 - [cxk-ball-hitplane](https://github.com/Enaium/cxk-ball-hitplane.git): 微信蔡徐坤打篮球小游戏。
 - [ikun-whacamole](https://github.com/dreamhunter2333/ikun-whacamole.git): 打地鼠 - 鸡你太美 ikun 版
+- [pangmao-jinian](https://github.com/pangmao-jinian/pangmao-jinian.git): 纪念一位网名胖猫的年轻人。
