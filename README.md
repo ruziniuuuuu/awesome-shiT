@@ -16,3 +16,4 @@ A collection of awesome ShiT on GitHub.
 - [cxk-ball-hitplane](https://github.com/Enaium/cxk-ball-hitplane.git): 微信蔡徐坤打篮球小游戏。
 - [ikun-whacamole](https://github.com/dreamhunter2333/ikun-whacamole.git): 打地鼠 - 鸡你太美 ikun 版
 - [pangmao-jinian](https://github.com/pangmao-jinian/pangmao-jinian.git): 纪念一位网名胖猫的年轻人。
+- [VVQuest](https://github.com/DanielZhangyc/VVQuest): VVQuest 是一个能够通过自然语言描述检索合适的张维为表情包的项目，运用嵌入模型检索。
