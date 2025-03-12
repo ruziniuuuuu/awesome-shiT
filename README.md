@@ -17,3 +17,4 @@ A collection of awesome ShiT on GitHub.
 - [ikun-whacamole](https://github.com/dreamhunter2333/ikun-whacamole.git): 打地鼠 - 鸡你太美 ikun 版
 - [pangmao-jinian](https://github.com/pangmao-jinian/pangmao-jinian.git): 纪念一位网名胖猫的年轻人。
 - [VVQuest](https://github.com/DanielZhangyc/VVQuest): VVQuest 是一个能够通过自然语言描述检索合适的张维为表情包的项目，运用嵌入模型检索。
+- [VV](https://github.com/Cicada000/VV.git): 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
