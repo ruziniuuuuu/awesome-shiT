@@ -20,3 +20,4 @@ A collection of awesome ShiT on GitHub.
 - [VVQuest](https://github.com/DanielZhangyc/VVQuest): VVQuest 是一个能够通过自然语言描述检索合适的张维为表情包的项目，运用嵌入模型检索。
 - [VV](https://github.com/Cicada000/VV.git): 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
 - [MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow): 智能检索张维为表情包。
+- [TungSahurClicker](https://github.com/BrainrotGamesio/TungSahurClicker.git): Official repository for Tung Sahur Clicker, the addictive H5 idle game.
