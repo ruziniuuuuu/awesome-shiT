@@ -21,3 +21,4 @@ A collection of awesome ShiT on GitHub.
 - [VV](https://github.com/Cicada000/VV.git): 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
 - [MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow): 智能检索张维为表情包。
 - [TungSahurClicker](https://github.com/BrainrotGamesio/TungSahurClicker.git): Official repository for Tung Sahur Clicker, the addictive H5 idle game.
+- [HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler.git): 全网首发支持和C语言混合代码的HerCode编译器，想出来写这个的可能家里请啥都没用了吧……
