@@ -22,3 +22,4 @@ A collection of awesome ShiT on GitHub.
 - [MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow): 智能检索张维为表情包。
 - [TungSahurClicker](https://github.com/BrainrotGamesio/TungSahurClicker.git): Official repository for Tung Sahur Clicker, the addictive H5 idle game.
 - [HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler.git): 全网首发支持和C语言混合代码的HerCode编译器，想出来写这个的可能家里请啥都没用了吧……
+- [](https://github.com/yuzheng14/huawei-od-active-manage): 华为式主动管理，在部门非雇员OD管理中出现的主动管理、计划外离职等数据进行整理和复盘。
