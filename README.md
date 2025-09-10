@@ -28,3 +28,4 @@ A collection of awesome ShiT on GitHub.
 - [hachima](https://github.com/wkgcass/hachima): 哈基码 - 编码/解码工具，快速将文本转换为哈基码，或将哈基码解码为原始文本。在线：[hachima.vproxy.io](https://hachima.vproxy.io/index.html)
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁 - 人体系统调优不完全指南
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南 | A programmer's guide to live longer
+- [awesome-hajimi](https://github.com/ruziniuuuuu/awesome-hajimi): A collection of hajimi (哈基米 in Chinese) on the Internet.
