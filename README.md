@@ -23,6 +23,7 @@ A collection of awesome ShiT on GitHub.
 - [TungSahurClicker](https://github.com/BrainrotGamesio/TungSahurClicker.git): Official repository for Tung Sahur Clicker, the addictive H5 idle game.
 - [HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler.git): 全网首发支持和C语言混合代码的HerCode编译器，想出来写这个的可能家里请啥都没用了吧……
 - [huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage): 华为式主动管理，在部门非雇员OD管理中出现的主动管理、计划外离职等数据进行整理和复盘。
+- [True-Story-of_pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu): 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 - [AutoHajimiMosaic](https://github.com/frinkleko/AutoHajimiMosaic): 一款自动为你的色图进行哈基米马赛克处理的打码器😎再也不用担心家里请不到高人了|自动哈基米打码器
 - [hachima](https://github.com/wkgcass/hachima): 哈基码 - 编码/解码工具，快速将文本转换为哈基码，或将哈基码解码为原始文本。在线：[hachima.vproxy.io](https://hachima.vproxy.io/index.html)
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁 - 人体系统调优不完全指南
