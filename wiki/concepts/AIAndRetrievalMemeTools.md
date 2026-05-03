@@ -2,7 +2,7 @@
 title: "AI 与检索梗工具"
 type: concept
 tags: [category]
-repos: [NailongDetection, nonebot-plugin-nailongremove, VVQuest, MemeMeow, AutoHajimiMosaic]
+repos: [NailongDetection, NailongRecognize, nonebot-plugin-nailongremove, VVQuest, MemeMeow, AutoHajimiMosaic]
 last_updated: 2026-05-04
 ---
 
@@ -19,6 +19,7 @@ AI 与检索梗工具指使用检测、识别、embedding 检索或自动处理�
 ## 相关项目
 
 - [[NailongDetection]]
+- [[NailongRecognize]]
 - [[nonebot-plugin-nailongremove]]
 - [[VVQuest]]
 - [[MemeMeow]]

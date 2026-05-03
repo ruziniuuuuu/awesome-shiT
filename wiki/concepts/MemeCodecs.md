@@ -2,7 +2,7 @@
 title: "梗编码器"
 type: concept
 tags: [category]
-repos: [hajimi-encoder, kobe_numbers, hachima]
+repos: [hajimi-encoder, kobe_numbers, hachima, translate-ha-jimi]
 last_updated: 2026-05-04
 ---
 
@@ -21,6 +21,7 @@ last_updated: 2026-05-04
 - [[hajimi-encoder]]
 - [[kobe_numbers]]
 - [[hachima]]
+- [[translate-ha-jimi]]
 
 ## 相关概念
 

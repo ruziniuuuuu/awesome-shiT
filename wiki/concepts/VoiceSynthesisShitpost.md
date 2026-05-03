@@ -2,7 +2,7 @@
 title: "语音整活"
 type: concept
 tags: [category]
-repos: [LaoDaSong, otto-hzys]
+repos: [LaoDaSong, otto-hzys, NaiLong-Voice-Clone, ottoTTS, otto-tts]
 last_updated: 2026-05-04
 ---
 
@@ -10,7 +10,7 @@ last_updated: 2026-05-04
 
 ## 定义
 
-语音整活指把人物梗、主播梗或声音素材做成歌曲、语音拼接或生成工具。
+语音整活指把人物梗、主播梗或声音素材做成歌曲、语音拼接、TTS 或声音克隆工具。
 
 ## 抽象机制
 
@@ -20,8 +20,12 @@ last_updated: 2026-05-04
 
 - [[LaoDaSong]]
 - [[otto-hzys]]
+- [[NaiLong-Voice-Clone]]
+- [[ottoTTS]]
+- [[otto-tts]]
 
 ## 相关概念
 
 - [[Laoda|牢大]]
 - [[Otto|电棍 Otto]]
+- [[Nailong|奶龙]]

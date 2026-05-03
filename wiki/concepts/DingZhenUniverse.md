@@ -2,7 +2,7 @@
 title: "丁真宇宙"
 type: concept
 tags: [meme]
-repos: [helang, YYDZ, DingZhen, DingZhenServlet]
+repos: [helang, YYDZ, DingZhen, DingZhenServlet, Dingzhen-Oneeye]
 last_updated: 2026-05-04
 ---
 
@@ -10,7 +10,7 @@ last_updated: 2026-05-04
 
 ## 定义
 
-丁真宇宙包括一眼丁真图片合集、API、平台式整活，以及赛博理塘叙事。
+丁真宇宙包括一眼丁真图片合集、API、平台式整活、鉴定话术，以及赛博理塘叙事。
 
 ## 抽象机制
 
@@ -22,6 +22,7 @@ last_updated: 2026-05-04
 - [[YYDZ]]
 - [[DingZhen]]
 - [[DingZhenServlet]]
+- [[Dingzhen-Oneeye]]
 
 ## 相关概念
 

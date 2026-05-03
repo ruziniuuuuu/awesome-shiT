@@ -2,7 +2,7 @@
 title: "梗内容档案"
 type: concept
 tags: [category]
-repos: [Chinese-Internet-Quotes, YYDZ, DingZhen, VV, awesome-hajimi]
+repos: [Chinese-Internet-Quotes, ChineseBQB, YYDZ, DingZhen, VV, awesome-hajimi]
 last_updated: 2026-05-04
 ---
 
@@ -19,6 +19,7 @@ last_updated: 2026-05-04
 ## 相关项目
 
 - [[Chinese-Internet-Quotes]]
+- [[ChineseBQB]]
 - [[YYDZ]]
 - [[DingZhen]]
 - [[VV]]
@@ -29,3 +30,4 @@ last_updated: 2026-05-04
 - [[DingZhenUniverse|丁真宇宙]]
 - [[Hajimi|哈基米]]
 - [[ZhangWeiweiMemes|张维为表情包]]
+- [[ChouxiangTextTools|抽象话与废话生成]]
