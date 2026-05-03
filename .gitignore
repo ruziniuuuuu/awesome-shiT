@@ -1,0 +1,4 @@
+docs/plans/
+node_modules/
+public/
+.quartz-cache/

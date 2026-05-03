@@ -1,6 +1,10 @@
-# Awesome ShiT
+# Awesome ShiT：中文抽象 GitHub 图鉴
 
-A collection of awesome ShiT on GitHub.
+面向中文读者的 GitHub 抽象 repo 收藏夹：认真地收集不正经的东西，包括烂梗工具、抽象文化项目、恶俗玩具、低技术力高节目效果项目，以及少量有公开材料支撑的真实屎山样本。
+
+## 双链知识库
+
+- [分类与双链索引](wiki/index.md)
 
 - [NailongDetection](https://github.com/search?q=nailong&type=repositories): 使用YOLOX检测图片中的奶龙、动漫风格人物、龙图和黄桃罐头等目标。
 - [nonebot-plugin-nailongremove](https://github.com/Refound-445/nonebot-plugin-nailongremove.git): NaiLongRemove 是一款由简单的 AI 模型建立的奶龙识别插件，可以识别群中的奶龙表情包并撤回该表情。
@@ -20,7 +24,7 @@ A collection of awesome ShiT on GitHub.
 - [VVQuest](https://github.com/DanielZhangyc/VVQuest): VVQuest 是一个能够通过自然语言描述检索合适的张维为表情包的项目，运用嵌入模型检索。
 - [VV](https://github.com/Cicada000/VV.git): 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
 - [MemeMeow](https://github.com/MemeMeow-Studio/MemeMeow): 智能检索张维为表情包。
-- [TungSahurClicker](https://github.com/BrainrotGamesio/TungSahurClicker.git): Official repository for Tung Sahur Clicker, the addictive H5 idle game.
+- [TungSahurClicker](https://github.com/BrainrotGamesio/TungSahurClicker.git): Tung Sahur Clicker 官方仓库，一款 H5 放置点击游戏。
 - [HerCode_Compiler](https://github.com/MuWinds/HerCode_Compiler.git): 全网首发支持和C语言混合代码的HerCode编译器，想出来写这个的可能家里请啥都没用了吧……
 - [huawei-od-active-manage](https://github.com/Younghusband/huawei-od-active-manage): 华为式主动管理，在部门非雇员OD管理中出现的主动管理、计划外离职等数据进行整理和复盘。
 - [True-Story-of_pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu): 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
@@ -28,5 +32,5 @@ A collection of awesome ShiT on GitHub.
 - [hachima](https://github.com/wkgcass/hachima): 哈基码 - 编码/解码工具，快速将文本转换为哈基码，或将哈基码解码为原始文本。在线：[hachima.vproxy.io](https://hachima.vproxy.io/index.html)
 - [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁 - 人体系统调优不完全指南
 - [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger): 程序员延寿指南 | A programmer's guide to live longer
-- [awesome-hajimi](https://github.com/ruziniuuuuu/awesome-hajimi): A collection of hajimi (哈基米 in Chinese) on the Internet.
+- [awesome-hajimi](https://github.com/ruziniuuuuu/awesome-hajimi): 互联网上的哈基米内容合集。
 - [huaweicloud-sdk-cpp-v3](https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3): 华为云cpp sdk经典屎山代码合影
