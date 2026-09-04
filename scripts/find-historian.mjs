@@ -67,6 +67,35 @@ const branchSlugs = [
 ]
 const branchSet = new Set(branchSlugs)
 const localAnchor = /哈基米|奶龙|曼波|耄耋|大狗叫|牛来|奶蛙|弱智吧|原神启动|吗喽|蔡徐坤|ikun|牢大|科比|电棍|otto|丁真|吉吉国|鬼畜|抽象|恶俗|发病文学|表情包|贴吧|天涯|永雏塔菲/i
+const concreteAnchor = /哈基米|奶龙|曼波|耄耋|大狗叫|牛来|奶蛙|弱智吧|原神(?:启动|圣经)|米学长|吗喽|蔡徐坤|ikun|鸡你太美|牢大|科比|电棍|otto|丁真|吉吉国|孙笑川|6324|鬼畜|恶俗|发病文学|抽象梗|中文(?:网络|互联网|热)梗|电子木鱼|周礼体|尊嘟假嘟|科目三|恐龙扛狼|菲比|三角洲|曼德尔砖|SBTI|永雏塔菲/i
+const branchRules = [
+  [/哈基米/i, "Hajimi"],
+  [/奶龙/i, "Nailong"],
+  [/曼波/i, "Manbo"],
+  [/耄耋|哈气/i, "Maodie"],
+  [/大狗叫/i, "DagouJiao"],
+  [/牛来|奶蛙/i, "NiulaiNaiwa"],
+  [/弱智吧/i, "Ruozhiba"],
+  [/原神启动/i, "GenshinLaunch"],
+  [/永雏塔菲/i, "Taffy"],
+  [/吗喽|SBTI/i, "WorkerMemes"],
+  [/蔡徐坤|ikun|鸡你太美/i, "Ikun"],
+  [/牢大|科比/i, "Laoda"],
+  [/电棍|otto/i, "Otto"],
+  [/丁真/i, "DingZhenUniverse"],
+  [/吉吉国|孙笑川|6324/i, "Jijiguo"],
+  [/编年史|全录|梗库|词典|档案|语料/i, "MemeArchives"],
+  [/编码|加密|翻译器/i, "MemeCodecs"],
+  [/bot|机器人|群聊/i, "MemeBots"],
+  [/桌宠/i, "MemeDesktopPets"],
+  [/TTS|配音|语音|音声/i, "VoiceSynthesisShitpost"],
+  [/游戏|模拟器/i, "BrainrotGames"],
+  [/编程语言|编译器|DSL|API/i, "MemeProgramming"],
+]
+
+function inferBranch(text, proposed) {
+  return branchRules.find(([pattern]) => pattern.test(text))?.[1] ?? proposed
+}
 
 const repoKey = (url = "") =>
   url
@@ -219,13 +248,15 @@ const accepted = []
 for (const decision of decisions) {
   const item = candidateByName.get(clean(decision.fullName).toLowerCase())
   const status = clean(decision.status).toLowerCase()
-  const branch = clean(decision.branch)
-  if (!item || !["accept", "maybe"].includes(status) || !branchSet.has(branch)) continue
+  const proposedBranch = clean(decision.branch)
+  if (!item || !["accept", "maybe"].includes(status) || !branchSet.has(proposedBranch)) continue
   const anchor = clean(decision.anchor)
   const implementation = clean(decision.implementation)
   const reason = clean(decision.reason)
   const summary = clean(decision.summary)
   if (!anchor || !implementation || !summary) continue
+  if (!concreteAnchor.test(`${anchor} ${summary}`)) continue
+  const branch = inferBranch(`${anchor} ${implementation} ${summary}`, proposedBranch)
   accepted.push({ item, status, branch, anchor, implementation, reason, summary })
 }
 
