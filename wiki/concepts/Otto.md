@@ -1,7 +1,7 @@
 ---
 title: "电棍 Otto"
 type: concept
-tags: [meme]
+tags: [shi]
 repos: [otto-hzys, OTTO, ottoTTS, otto-tts]
 last_updated: 2026-05-04
 ---

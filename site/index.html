@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="一份以公开 GitHub 仓库为实物证据的中文互联网编年档案。"
+    />
+    <title>GitHub 中文史料馆</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#chronicle">跳到编年史</a>
+    <header class="masthead" id="top">
+      <a class="wordmark" href="#top" aria-label="GitHub 中文史料馆首页">
+        <span>GITHUB</span><strong>史</strong>
+      </a>
+      <nav aria-label="档案导航">
+        <a href="#chronicle">编年史</a>
+        <a href="#branches">支系</a>
+        <a href="#fieldwork">田野调查</a>
+        <a href="https://github.com/ruziniuuuuu/awesome-shiT" target="_blank" rel="noreferrer"
+          >GitHub ↗</a
+        >
+      </nav>
+      <div class="open-status"><i></i> PUBLIC / OPEN</div>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="archive-title">
+        <div class="hero__registry">
+          <span>民间数字档案</span>
+          <span>CN–NET / ARCHIVE</span>
+          <span>建档 2026</span>
+        </div>
+        <div class="hero__title">
+          <p class="kicker">ARCHIVE OF CHINESE INTERNET REPOSITORIES</p>
+          <h1 id="archive-title">GitHub<br /><em>中文史料馆</em></h1>
+          <p class="lead">
+            从音效盒、小游戏与抽象话生成器，到识别模型、桌宠和 Agent
+            Skill。这里不判断互联网是否进步，只保存它确实来过的证据。
+          </p>
+          <div class="hero__actions">
+            <a class="button button--primary" href="#latest">直达今日考古 ↓</a>
+            <a class="button" href="#chronicle">从头翻阅</a>
+          </div>
+        </div>
+        <aside class="accession" aria-label="馆藏统计">
+          <p>馆藏登记 / ACCESSION</p>
+          <dl>
+            <div><dt>正式史料</dt><dd data-stat="repositories">—</dd></div>
+            <div><dt>已成支系</dt><dd data-stat="concepts">—</dd></div>
+            <div><dt>田野候选</dt><dd data-stat="research">—</dd></div>
+            <div><dt>最早工程</dt><dd data-stat="earliest">—</dd></div>
+          </dl>
+          <small>数据来自公开 GitHub repo 与 README；日期为离线核验快照。</small>
+        </aside>
+      </section>
+
+      <section class="curator-note" aria-label="馆员说明">
+        <span class="stamp">编者按</span>
+        <p>
+          <strong>本馆只收“梗对象 + 具体实现”同时成立的项目。</strong>
+          实线代表 GitHub 可核验的工程节点；红色虚线代表文化传播节点，缺少一手出处时明确标注“待考”。
+        </p>
+        <time data-generated>核验中…</time>
+      </section>
+
+      <section class="archive-tools" aria-label="检索工具">
+        <label class="search-box">
+          <span>⌕</span>
+          <input type="search" placeholder="检索人物、梗、repo 或技术形态…" data-search />
+          <kbd>⌘ K</kbd>
+        </label>
+        <div class="view-switch" role="group" aria-label="史料范围">
+          <button class="is-active" type="button" data-scope="all">全部馆藏</button>
+          <button type="button" data-scope="recent">2024–2026</button>
+          <button type="button" data-scope="old">旧史源头</button>
+        </div>
+        <button class="sort-button" type="button" data-sort>
+          <span>时间</span> 古 → 今
+        </button>
+      </section>
+
+      <section class="branches section" id="branches" aria-labelledby="branches-title">
+        <header class="section-heading">
+          <div>
+            <span class="folio">I / 支系总目</span>
+            <h2 id="branches-title">一馆史料，许多条演化路线</h2>
+          </div>
+          <p>按馆藏数量排序。点击支系即可只看这一脉，也可展开浏览全部支系。</p>
+        </header>
+        <div class="branch-strip" data-branches></div>
+        <button class="branch-toggle" type="button" data-branch-toggle aria-expanded="false">
+          展开全部支系
+        </button>
+      </section>
+
+      <section class="chronicle section" id="chronicle" aria-labelledby="chronicle-title">
+        <header class="section-heading">
+          <div>
+            <span class="folio">II / 工程编年</span>
+            <h2 id="chronicle-title">从手搓玩具到模型与 Agent</h2>
+          </div>
+          <p data-result-count>正在清点馆藏…</p>
+        </header>
+        <div class="legend" aria-label="图例">
+          <span><i class="solid"></i> GitHub 工程节点</span>
+          <span><i class="dashed"></i> 文化传播节点（待考）</span>
+          <span><b>证</b> 有公开证据链接</span>
+        </div>
+        <div class="timeline" data-timeline></div>
+        <div class="empty-state" data-empty hidden>
+          <strong>这条支系暂时断档。</strong>
+          <span>换个关键词，或者去 GitHub 提交一份新史料。</span>
+        </div>
+      </section>
+
+      <section class="latest section" id="latest" aria-labelledby="latest-title">
+        <header class="section-heading">
+          <div>
+            <span class="folio">III / 今日考古</span>
+            <h2 id="latest-title">最近入馆</h2>
+          </div>
+          <p>按 GitHub 最近推送时间排列，不等于传播热度。</p>
+        </header>
+        <div class="latest-grid" data-latest></div>
+      </section>
+
+      <section class="fieldwork section" id="fieldwork" aria-labelledby="fieldwork-title">
+        <header class="section-heading">
+          <div>
+            <span class="folio">IV / 田野调查</span>
+            <h2 id="fieldwork-title">正在形成的新史</h2>
+          </div>
+          <p>已发现但尚未正式入馆。低 stars 只说明新，不说明不配。</p>
+        </header>
+        <div class="emerging-branches" data-emerging></div>
+        <div class="fieldwork-ledger" data-fieldwork></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>GITHUB 中文史料馆 · 2026</span>
+      <span>事实可追溯，判断可玩梗。</span>
+      <a href="#top">返回卷首 ↑</a>
+    </footer>
+
+    <dialog class="record-dialog" data-dialog>
+      <button class="dialog-close" type="button" data-close aria-label="关闭">×</button>
+      <div data-dialog-content></div>
+    </dialog>
+
+    <template id="record-template">
+      <article class="record-card">
+        <div class="record-card__date"></div>
+        <div class="record-card__body">
+          <div class="record-card__meta"></div>
+          <h3></h3>
+          <p></p>
+          <div class="record-card__concepts"></div>
+        </div>
+        <button class="record-card__open" type="button">调阅</button>
+      </article>
+    </template>
+  </body>
+</html>

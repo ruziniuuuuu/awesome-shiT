@@ -1,7 +1,7 @@
 ---
 title: "张维为表情包"
 type: concept
-tags: [meme]
+tags: [shi]
 repos: [VVQuest, VV, MemeMeow]
 last_updated: 2026-05-04
 ---

@@ -1,0 +1,38 @@
+[
+  {
+    "year": 2019,
+    "date": "2019-02",
+    "title": "篮球影像进入鬼畜传播",
+    "concepts": ["Ikun"],
+    "certainty": "公开报道",
+    "summary": "蔡徐坤成为 NBA 新春贺岁形象大使后，早期舞台篮球片段被重新发现并大量二创，逐渐形成“鸡你太美”工程史的影像母本。",
+    "source": "https://www.thepaper.cn/newsDetail_forward_23543004"
+  },
+  {
+    "year": 2020,
+    "date": "2020-12",
+    "title": "丁真进入公共传播",
+    "concepts": ["DingZhenUniverse"],
+    "certainty": "公开报道",
+    "summary": "丁真因短视频走红并成为理塘旅游形象大使；人物影像、鉴定话术与理塘叙事随后形成持续工程化的丁真宇宙。",
+    "source": "https://www.peopleapp.com/column/30037411311-500002451488"
+  },
+  {
+    "year": 2022,
+    "date": "2022-11-19",
+    "title": "哈基米音声母本出现",
+    "concepts": ["Hajimi"],
+    "certainty": "二手核验",
+    "summary": "中文社区中具有标志性的《两个笨蛋》音 MAD 出现，音声与猫梗此后逐渐长成编码器、翻译器、视频随机播放和马赛克工具。",
+    "source": "https://zh.wikipedia.org/wiki/%E5%93%88%E5%9F%BA%E7%B1%B3_(%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD)"
+  },
+  {
+    "year": 2024,
+    "date": "2024-07",
+    "title": "奶龙成为可计算对象",
+    "concepts": ["Nailong"],
+    "certainty": "二手核验",
+    "summary": "“发奶龙的小朋友们你们好啊”等反串内容扩散，表情包传播随后外溢为识别模型、撤回插件、声音克隆与桌宠。",
+    "source": "https://moegirl.icu/zh-hans/%E5%A5%B6%E9%BE%99"
+  }
+]

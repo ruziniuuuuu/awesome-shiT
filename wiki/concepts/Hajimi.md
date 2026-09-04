@@ -1,8 +1,16 @@
 ---
 title: "哈基米"
 type: concept
-tags: [meme]
-repos: [hajimi-encoder, hachimi, AutoHajimiMosaic, hachima, awesome-hajimi, translate-ha-jimi]
+tags: [shi]
+repos:
+  [
+    hajimi-encoder,
+    hachimi,
+    AutoHajimiMosaic,
+    hachima,
+    awesome-hajimi,
+    translate-ha-jimi,
+  ]
 last_updated: 2026-05-04
 ---
 

@@ -1,13 +1,16 @@
-.PHONY: install preview build clean
-
-install:
-	npm ci
+.PHONY: preview build check snapshot clean
 
 preview:
-	npm run wiki:preview
+	npm run preview
 
 build:
-	npm run wiki:build
+	npm run build
+
+check:
+	npm run check
+
+snapshot:
+	npm run snapshot
 
 clean:
-	rm -rf public .quartz-cache
+	rm -rf public

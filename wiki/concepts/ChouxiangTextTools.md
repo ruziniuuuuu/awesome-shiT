@@ -2,7 +2,15 @@
 title: "抽象话与废话生成"
 type: concept
 tags: [category]
-repos: [chouxianghua, NMSL, BullshitGenerator, bullshit-generator-js, nmslGenerator, TGBullshitGeneratorBot]
+repos:
+  [
+    chouxianghua,
+    NMSL,
+    BullshitGenerator,
+    bullshit-generator-js,
+    nmslGenerator,
+    TGBullshitGeneratorBot,
+  ]
 last_updated: 2026-05-04
 ---
 

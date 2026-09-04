@@ -1,9 +1,9 @@
 ---
 title: "牢大"
 type: concept
-tags: [meme]
-repos: [kobe_numbers, LaoDaSong]
-last_updated: 2026-05-04
+tags: [shi]
+repos: [kobe_numbers, LaoDaSong, mamba-skill]
+last_updated: 2026-09-04
 ---
 
 # 牢大
@@ -20,6 +20,7 @@ last_updated: 2026-05-04
 
 - [[kobe_numbers]]
 - [[LaoDaSong]]
+- [[mamba-skill]]
 
 ## 相关概念
 

@@ -2,8 +2,8 @@
 title: "整活编程"
 type: concept
 tags: [category]
-repos: [helang, HerCode_Compiler]
-last_updated: 2026-05-04
+repos: [helang, HerCode_Compiler, cxk-dance, sunxue, WeirdoTV-Skill]
+last_updated: 2026-09-04
 ---
 
 # 整活编程
@@ -20,6 +20,9 @@ last_updated: 2026-05-04
 
 - [[helang]]
 - [[HerCode_Compiler]]
+- [[cxk-dance]]
+- [[sunxue]]
+- [[WeirdoTV-Skill]]
 
 ## 相关概念
 

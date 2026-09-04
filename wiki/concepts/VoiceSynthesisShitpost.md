@@ -2,8 +2,16 @@
 title: "语音整活"
 type: concept
 tags: [category]
-repos: [LaoDaSong, otto-hzys, NaiLong-Voice-Clone, ottoTTS, otto-tts]
-last_updated: 2026-05-04
+repos:
+  [
+    LaoDaSong,
+    otto-hzys,
+    NaiLong-Voice-Clone,
+    ottoTTS,
+    otto-tts,
+    jinkela-rainbow-fart,
+  ]
+last_updated: 2026-09-04
 ---
 
 # 语音整活
@@ -23,6 +31,7 @@ last_updated: 2026-05-04
 - [[NaiLong-Voice-Clone]]
 - [[ottoTTS]]
 - [[otto-tts]]
+- [[jinkela-rainbow-fart]]
 
 ## 相关概念
 

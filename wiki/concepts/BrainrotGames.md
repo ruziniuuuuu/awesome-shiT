@@ -2,8 +2,20 @@
 title: "抽象小游戏"
 type: concept
 tags: [category]
-repos: [cxk-ball-hitplane, cxk-ball, cxk, cxk-2048-react, ikun-whacamole, Jilehe, JiNiTaiMei, ikun, OTTO]
-last_updated: 2026-05-04
+repos:
+  [
+    cxk-ball-hitplane,
+    cxk-ball,
+    cxk,
+    cxk-2048-react,
+    ikun-whacamole,
+    Jilehe,
+    JiNiTaiMei,
+    ikun,
+    OTTO,
+    open-pygame-CxkWithBasketball,
+  ]
+last_updated: 2026-09-04
 ---
 
 # 抽象小游戏
@@ -27,6 +39,7 @@ last_updated: 2026-05-04
 - [[JiNiTaiMei]]
 - [[ikun]]
 - [[OTTO]]
+- [[open-pygame-CxkWithBasketball]]
 
 ## 相关概念
 

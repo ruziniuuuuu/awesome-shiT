@@ -2,7 +2,15 @@
 title: "AI 与检索梗工具"
 type: concept
 tags: [category]
-repos: [NailongDetection, NailongRecognize, nonebot-plugin-nailongremove, VVQuest, MemeMeow, AutoHajimiMosaic]
+repos:
+  [
+    NailongDetection,
+    NailongRecognize,
+    nonebot-plugin-nailongremove,
+    VVQuest,
+    MemeMeow,
+    AutoHajimiMosaic,
+  ]
 last_updated: 2026-05-04
 ---
 

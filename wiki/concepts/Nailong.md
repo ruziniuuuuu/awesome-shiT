@@ -1,8 +1,14 @@
 ---
 title: "奶龙"
 type: concept
-tags: [meme]
-repos: [NailongDetection, NailongRecognize, nonebot-plugin-nailongremove, NaiLong-Voice-Clone]
+tags: [shi]
+repos:
+  [
+    NailongDetection,
+    NailongRecognize,
+    nonebot-plugin-nailongremove,
+    NaiLong-Voice-Clone,
+  ]
 last_updated: 2026-05-04
 ---
 

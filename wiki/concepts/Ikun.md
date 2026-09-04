@@ -1,9 +1,23 @@
 ---
 title: "坤 / ikun"
 type: concept
-tags: [meme]
-repos: [cxk-ball-hitplane, cxk-ball, cxk, cxk-2048-react, ikun-whacamole, Jilehe, JiNiTaiMei, ikun]
-last_updated: 2026-05-04
+tags: [shi]
+repos:
+  [
+    cxk-ball-hitplane,
+    cxk-ball,
+    cxk,
+    cxk-2048-react,
+    ikun-whacamole,
+    Jilehe,
+    JiNiTaiMei,
+    ikun,
+    open-pygame-CxkWithBasketball,
+    opencv-caixukun,
+    cxk-dance,
+    CXK_IKUN_Dataset,
+  ]
+last_updated: 2026-09-04
 ---
 
 # 坤 / ikun
@@ -26,6 +40,10 @@ Ikun 相关 repo 围绕蔡徐坤、篮球、“鸡你太美”和“唱跳rap篮
 - [[Jilehe]]
 - [[JiNiTaiMei]]
 - [[ikun]]
+- [[open-pygame-CxkWithBasketball]]
+- [[opencv-caixukun]]
+- [[cxk-dance]]
+- [[CXK_IKUN_Dataset]]
 
 ## 相关概念
 

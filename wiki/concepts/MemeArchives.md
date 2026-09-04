@@ -2,8 +2,19 @@
 title: "梗内容档案"
 type: concept
 tags: [category]
-repos: [Chinese-Internet-Quotes, ChineseBQB, YYDZ, DingZhen, VV, awesome-hajimi]
-last_updated: 2026-05-04
+repos:
+  [
+    Chinese-Internet-Quotes,
+    ChineseBQB,
+    YYDZ,
+    DingZhen,
+    VV,
+    awesome-hajimi,
+    CXK_IKUN_Dataset,
+    kkndme_tianya,
+    hao-yu-xiangxiang,
+  ]
+last_updated: 2026-09-04
 ---
 
 # 梗内容档案
@@ -24,6 +35,9 @@ last_updated: 2026-05-04
 - [[DingZhen]]
 - [[VV]]
 - [[awesome-hajimi]]
+- [[CXK_IKUN_Dataset]]
+- [[kkndme_tianya]]
+- [[hao-yu-xiangxiang]]
 
 ## 相关概念
 

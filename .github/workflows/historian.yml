@@ -1,0 +1,91 @@
+name: 找史官 · 每日巡检
+
+on:
+  schedule:
+    - cron: "23 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-historian
+  cancel-in-progress: false
+
+jobs:
+  search:
+    name: 本地 AI 找史
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Cache local model
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama/models
+          key: ollama-qwen3-1.7b-v1-${{ runner.arch }}
+
+      - name: Start free local AI
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          sudo systemctl stop ollama || true
+          nohup env OLLAMA_MODELS="$HOME/.ollama/models" ollama serve >/tmp/ollama.log 2>&1 &
+          for attempt in {1..20}; do
+            if curl -fsS http://127.0.0.1:11434/api/tags >/dev/null; then
+              break
+            fi
+            sleep 1
+          done
+          OLLAMA_MODELS="$HOME/.ollama/models" ollama pull qwen3:1.7b
+
+      - name: Search and judge new records
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HISTORIAN_MODEL: qwen3:1.7b
+          HISTORIAN_MAX_CANDIDATES: 18
+        run: npm run historian
+
+      - name: Ingest accepted records
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git status --porcelain -- raw | grep -q .; then
+            npm run snapshot
+            npm run ingest
+          fi
+          npm run check
+          npm run build
+
+      - name: Open historian pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add raw wiki/repos wiki/concepts archive/github-snapshot.json
+          if git diff --cached --quiet; then
+            echo "找史官今日无新史，结束巡检。"
+            exit 0
+          fi
+
+          archive_date="$(TZ=Asia/Shanghai date +%F)"
+          branch="bot/find-history-${archive_date}-${GITHUB_RUN_ID}"
+          git config user.name "find-historian[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git commit -m "史料：找史官每日巡检 ${archive_date}"
+          git push --set-upstream origin "$branch"
+          gh pr create \
+            --title "找史官：${archive_date} 每日新史" \
+            --body "免费本地模型完成了今日 GitHub 巡检，并把通过初筛的史料编入馆藏。请人工复核 raw 报告、README 证据与收录判断后再合并。"

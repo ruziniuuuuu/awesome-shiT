@@ -1,7 +1,7 @@
 ---
 title: "丁真宇宙"
 type: concept
-tags: [meme]
+tags: [shi]
 repos: [helang, YYDZ, DingZhen, DingZhenServlet, Dingzhen-Oneeye]
 last_updated: 2026-05-04
 ---
