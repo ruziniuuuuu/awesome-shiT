@@ -6,7 +6,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
 const token = process.env.GITHUB_TOKEN ?? process.env.GH_TOKEN
 const model = process.env.HISTORIAN_MODEL ?? "qwen3:1.7b"
 const ollamaUrl = process.env.OLLAMA_URL ?? "http://127.0.0.1:11434"
-const maxCandidates = Number(process.env.HISTORIAN_MAX_CANDIDATES ?? 18)
+const maxCandidates = Number(process.env.HISTORIAN_MAX_CANDIDATES ?? 12)
 const today = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Asia/Shanghai",
   year: "numeric",
@@ -151,7 +151,7 @@ for (const item of discovered.values()) {
     stars: item.repo.stargazers_count,
     language: item.repo.language ?? "未标注",
     matchedTerm: item.term,
-    readme: readme.slice(0, 5200),
+    readme: readme.slice(0, 2800),
   })
 }
 
@@ -183,13 +183,14 @@ README:\n${item.readme}`,
   const response = await fetch(`${ollamaUrl}/api/generate`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
+    signal: AbortSignal.timeout(180_000),
     body: JSON.stringify({
       model,
       prompt,
       stream: false,
       format: "json",
       think: false,
-      options: { temperature: 0.1, num_predict: 1800 },
+      options: { temperature: 0.1, num_predict: 700 },
     }),
   })
   if (!response.ok) throw new Error(`Ollama HTTP ${response.status}: ${await response.text()}`)

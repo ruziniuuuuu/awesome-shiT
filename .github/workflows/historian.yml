@@ -55,7 +55,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HISTORIAN_MODEL: qwen3:1.7b
-          HISTORIAN_MAX_CANDIDATES: 18
+          HISTORIAN_MAX_CANDIDATES: 12
         run: npm run historian
 
       - name: Ingest accepted records

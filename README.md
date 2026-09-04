@@ -2,6 +2,8 @@
 
 一座用公开 GitHub repo 当实物证据的中文互联网数字档案馆。
 
+[在线进入史料馆](https://ruziniuuuuu.github.io/awesome-shiT/)
+
 它保存中文互联网文化如何被工程化：从语录、音效盒和小游戏，到编码器、识别模型、桌宠与 Agent Skill。事实描述必须能回到 repo、README、源码或 GitHub metadata；馆员批注可以有态度，但不能把网传说法写成史实。
 
 ## 史料
