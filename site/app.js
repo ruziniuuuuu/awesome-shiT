@@ -50,8 +50,11 @@ function matches(record) {
 
 function renderStats() {
   const repositories = state.data.repositories
+  const usedConcepts = new Set(
+    repositories.flatMap((repository) => repository.concepts ?? []),
+  )
   $("[data-stat='repositories']").textContent = repositories.length
-  $("[data-stat='concepts']").textContent = state.data.concepts.length
+  $("[data-stat='concepts']").textContent = usedConcepts.size
   $("[data-stat='research']").textContent = state.data.research.length
   const years = repositories.map(yearValue).filter(Boolean)
   $("[data-stat='earliest']").textContent = years.length ? Math.min(...years) : "待核"
