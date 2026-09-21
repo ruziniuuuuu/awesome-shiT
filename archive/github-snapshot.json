@@ -10,17 +10,6 @@
     "language": "TypeScript",
     "archived": false
   },
-  "2936401755/big-banana-hoax-": {
-    "fullName": "2936401755/Big-Banana-Hoax-",
-    "url": "https://github.com/2936401755/Big-Banana-Hoax-",
-    "description": "Java写的一个简单的大香蕉恶搞程序,不会对系统造成任何损坏,可以用来恶搞你的同学,同事等等,谨慎使用!",
-    "createdAt": "2024-05-29T07:03:52Z",
-    "pushedAt": "2024-05-29T07:25:52Z",
-    "stars": 2,
-    "forks": 0,
-    "language": "Java",
-    "archived": false
-  },
   "aaglaming/naiwai": {
     "fullName": "aaGlaming/NaiWai",
     "url": "https://github.com/aaGlaming/NaiWai",
@@ -32,15 +21,15 @@
     "language": "Vue",
     "archived": false
   },
-  "1824239290/maibot_plugin_genshinimpact": {
-    "fullName": "1824239290/maibot_plugin_genshinimpact",
-    "url": "https://github.com/1824239290/maibot_plugin_genshinimpact",
-    "description": "MaiBot 1.1 原神关键词随机回复插件，移植自 Hikari31768/astrbot_plugin_genshinimpact",
-    "createdAt": "2026-07-26T09:13:36Z",
-    "pushedAt": "2026-07-26T09:13:40Z",
-    "stars": 0,
+  "2936401755/big-banana-hoax-": {
+    "fullName": "2936401755/Big-Banana-Hoax-",
+    "url": "https://github.com/2936401755/Big-Banana-Hoax-",
+    "description": "Java写的一个简单的大香蕉恶搞程序,不会对系统造成任何损坏,可以用来恶搞你的同学,同事等等,谨慎使用!",
+    "createdAt": "2024-05-29T07:03:52Z",
+    "pushedAt": "2024-05-29T07:25:52Z",
+    "stars": 2,
     "forks": 0,
-    "language": "Python",
+    "language": "Java",
     "archived": false
   },
   "123qewafdfg/dagou-tap-upgraded": {
@@ -54,6 +43,17 @@
     "language": "JavaScript",
     "archived": false
   },
+  "1824239290/maibot_plugin_genshinimpact": {
+    "fullName": "1824239290/maibot_plugin_genshinimpact",
+    "url": "https://github.com/1824239290/maibot_plugin_genshinimpact",
+    "description": "MaiBot 1.1 原神关键词随机回复插件，移植自 Hikari31768/astrbot_plugin_genshinimpact",
+    "createdAt": "2026-07-26T09:13:36Z",
+    "pushedAt": "2026-07-26T09:13:40Z",
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "archived": false
+  },
   "1931840268/gongde-plus-plus": {
     "fullName": "1931840268/gongde-plus-plus",
     "url": "https://github.com/1931840268/gongde-plus-plus",
@@ -63,28 +63,6 @@
     "stars": 0,
     "forks": 0,
     "language": "Python",
-    "archived": false
-  },
-  "abc1763613206/tgbullshitgeneratorbot": {
-    "fullName": "abc1763613206/TGBullshitGeneratorBot",
-    "url": "https://github.com/abc1763613206/TGBullshitGeneratorBot",
-    "description": "\"狗屁不通文章生成器\" (https://github.com/menzi11/BullshitGenerator) 的 Telegram Bot 移植版",
-    "createdAt": "2019-10-31T11:03:13Z",
-    "pushedAt": "2024-07-31T21:49:36Z",
-    "stars": 160,
-    "forks": 34,
-    "language": "Python",
-    "archived": false
-  },
-  "abdulla-abs/jinitaimei": {
-    "fullName": "Abdulla-abs/JiNiTaiMei",
-    "url": "https://github.com/Abdulla-abs/JiNiTaiMei",
-    "description": "仿鸡乐盒的小盒子。包含了扫雷，贪吃蛇，别踩白块，以及一个未完成的模块",
-    "createdAt": "2023-01-26T13:18:05Z",
-    "pushedAt": "2023-01-26T13:18:35Z",
-    "stars": 0,
-    "forks": 0,
-    "language": "Java",
     "archived": false
   },
   "aidancedance/xhs-comic-illustrator": {
@@ -98,15 +76,15 @@
     "language": null,
     "archived": false
   },
-  "akarachen/hachimi": {
-    "fullName": "AkaraChen/hachimi",
-    "url": "https://github.com/AkaraChen/hachimi",
-    "description": "哈基米，好胖好可爱",
-    "createdAt": "2024-08-12T10:30:08Z",
-    "pushedAt": "2026-04-08T23:41:40Z",
-    "stars": 6,
-    "forks": 0,
-    "language": "TypeScript",
+  "abc1763613206/tgbullshitgeneratorbot": {
+    "fullName": "abc1763613206/TGBullshitGeneratorBot",
+    "url": "https://github.com/abc1763613206/TGBullshitGeneratorBot",
+    "description": "\"狗屁不通文章生成器\" (https://github.com/menzi11/BullshitGenerator) 的 Telegram Bot 移植版",
+    "createdAt": "2019-10-31T11:03:13Z",
+    "pushedAt": "2024-07-31T21:49:36Z",
+    "stars": 160,
+    "forks": 34,
+    "language": "Python",
     "archived": false
   },
   "akira-cn/bullshit-generator-js": {
@@ -120,6 +98,17 @@
     "language": "HTML",
     "archived": false
   },
+  "abdulla-abs/jinitaimei": {
+    "fullName": "Abdulla-abs/JiNiTaiMei",
+    "url": "https://github.com/Abdulla-abs/JiNiTaiMei",
+    "description": "仿鸡乐盒的小盒子。包含了扫雷，贪吃蛇，别踩白块，以及一个未完成的模块",
+    "createdAt": "2023-01-26T13:18:05Z",
+    "pushedAt": "2023-01-26T13:18:35Z",
+    "stars": 0,
+    "forks": 0,
+    "language": "Java",
+    "archived": false
+  },
   "alc888/memetrace": {
     "fullName": "ALC888/MemeTrace",
     "url": "https://github.com/ALC888/MemeTrace",
@@ -131,15 +120,15 @@
     "language": "Python",
     "archived": false
   },
-  "alexzerozero/niulai-desktop-pet": {
-    "fullName": "AlexZeroZero/niulai-desktop-pet",
-    "url": "https://github.com/AlexZeroZero/niulai-desktop-pet",
-    "description": "牛来行情桌宠：Windows / macOS 轻量行情桌面宠物",
-    "createdAt": "2026-09-04T06:32:14Z",
-    "pushedAt": "2026-09-04T11:59:41Z",
-    "stars": 1,
-    "forks": 0,
-    "language": "PowerShell",
+  "alchaincyf/zhangxuefeng-skill": {
+    "fullName": "alchaincyf/zhangxuefeng-skill",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+    "createdAt": "2026-04-05T11:37:18Z",
+    "pushedAt": "2026-08-25T03:03:20Z",
+    "stars": 10317,
+    "forks": 2666,
+    "language": null,
     "archived": false
   },
   "alexzerozero/maodie-land": {
@@ -151,17 +140,6 @@
     "stars": 3,
     "forks": 0,
     "language": "C#",
-    "archived": false
-  },
-  "alchaincyf/zhangxuefeng-skill": {
-    "fullName": "alchaincyf/zhangxuefeng-skill",
-    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-    "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "createdAt": "2026-04-05T11:37:18Z",
-    "pushedAt": "2026-08-25T03:03:20Z",
-    "stars": 10314,
-    "forks": 2666,
-    "language": null,
     "archived": false
   },
   "almango/simulatemoki-sjzxd": {
@@ -186,15 +164,48 @@
     "language": null,
     "archived": false
   },
+  "akarachen/hachimi": {
+    "fullName": "AkaraChen/hachimi",
+    "url": "https://github.com/AkaraChen/hachimi",
+    "description": "哈基米，好胖好可爱",
+    "createdAt": "2024-08-12T10:30:08Z",
+    "pushedAt": "2026-04-08T23:41:40Z",
+    "stars": 6,
+    "forks": 0,
+    "language": "TypeScript",
+    "archived": false
+  },
+  "alexzerozero/niulai-desktop-pet": {
+    "fullName": "AlexZeroZero/niulai-desktop-pet",
+    "url": "https://github.com/AlexZeroZero/niulai-desktop-pet",
+    "description": "牛来行情桌宠：Windows / macOS 轻量行情桌面宠物",
+    "createdAt": "2026-09-04T06:32:14Z",
+    "pushedAt": "2026-09-04T11:59:41Z",
+    "stars": 1,
+    "forks": 0,
+    "language": "PowerShell",
+    "archived": false
+  },
   "aspirin0000/zhouli-translator": {
     "fullName": "Aspirin0000/zhouli-translator",
     "url": "https://github.com/Aspirin0000/zhouli-translator",
     "description": "合乎周礼：DeepSeek-powered Zhouli-style Chinese translator, web app, and distributable Skill package.",
     "createdAt": "2026-06-22T07:51:35Z",
-    "pushedAt": "2026-09-19T17:53:17Z",
+    "pushedAt": "2026-09-20T18:36:56Z",
     "stars": 314,
     "forks": 30,
     "language": "TypeScript",
+    "archived": false
+  },
+  "ayame-aqua/shiki-natsume": {
+    "fullName": "ayame-aqua/shiki-natsume",
+    "url": "https://github.com/ayame-aqua/shiki-natsume",
+    "description": "Personal digital life companion: persona chat, memory, voice, Live2D, and QQ social.",
+    "createdAt": "2026-09-16T09:14:13Z",
+    "pushedAt": "2026-09-20T12:29:23Z",
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
     "archived": false
   },
   "astrbotdevs/astrbot": {
@@ -202,9 +213,9 @@
     "url": "https://github.com/AstrBotDevs/AstrBot",
     "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
     "createdAt": "2022-12-08T13:27:46Z",
-    "pushedAt": "2026-09-20T03:46:12Z",
-    "stars": 40722,
-    "forks": 2942,
+    "pushedAt": "2026-09-21T04:40:26Z",
+    "stars": 40759,
+    "forks": 2946,
     "language": "Python",
     "archived": false
   },
@@ -263,13 +274,13 @@
     "language": "Go",
     "archived": false
   },
-  "c4chuan/meme-collector": {
-    "fullName": "c4chuan/meme-collector",
-    "url": "https://github.com/c4chuan/meme-collector",
-    "description": "🔥 OpenClaw Skill: 自动搜集网络热梗并写入 Dify 知识库，支持去重",
-    "createdAt": "2026-02-11T09:04:39Z",
-    "pushedAt": "2026-02-11T09:04:42Z",
-    "stars": 0,
+  "caixiaoshun/daiyulm": {
+    "fullName": "caixiaoshun/DaiyuLM",
+    "url": "https://github.com/caixiaoshun/DaiyuLM",
+    "description": "基于 ChatGLM2-6B 的中文风格微调模型，擅长生成婉转、含蓄、略带怨气的“林黛玉式”发疯文学风格回复。",
+    "createdAt": "2025-06-20T05:43:20Z",
+    "pushedAt": "2025-06-22T07:15:43Z",
+    "stars": 6,
     "forks": 1,
     "language": "Python",
     "archived": false
@@ -285,6 +296,17 @@
     "language": "HTML",
     "archived": false
   },
+  "c4chuan/meme-collector": {
+    "fullName": "c4chuan/meme-collector",
+    "url": "https://github.com/c4chuan/meme-collector",
+    "description": "🔥 OpenClaw Skill: 自动搜集网络热梗并写入 Dify 知识库，支持去重",
+    "createdAt": "2026-02-11T09:04:39Z",
+    "pushedAt": "2026-02-11T09:04:42Z",
+    "stars": 0,
+    "forks": 1,
+    "language": "Python",
+    "archived": false
+  },
   "charley-xiao/nogenshin": {
     "fullName": "Charley-xiao/nogenshin",
     "url": "https://github.com/Charley-xiao/nogenshin",
@@ -296,28 +318,6 @@
     "language": "Python",
     "archived": false
   },
-  "caixiaoshun/daiyulm": {
-    "fullName": "caixiaoshun/DaiyuLM",
-    "url": "https://github.com/caixiaoshun/DaiyuLM",
-    "description": "基于 ChatGLM2-6B 的中文风格微调模型，擅长生成婉转、含蓄、略带怨气的“林黛玉式”发疯文学风格回复。",
-    "createdAt": "2025-06-20T05:43:20Z",
-    "pushedAt": "2025-06-22T07:15:43Z",
-    "stars": 6,
-    "forks": 1,
-    "language": "Python",
-    "archived": false
-  },
-  "chenxuuu/chouxianghua": {
-    "fullName": "chenxuuu/chouxianghua",
-    "url": "https://github.com/chenxuuu/chouxianghua",
-    "description": "🤡‍🐘🌸‍抽象话生成器网页/tg版，一键生成抽象话",
-    "createdAt": "2019-11-16T11:22:18Z",
-    "pushedAt": "2024-07-19T02:15:38Z",
-    "stars": 320,
-    "forks": 25,
-    "language": "Lua",
-    "archived": false
-  },
   "chloerainy/milkcome": {
     "fullName": "ChloeRainy/milkcome",
     "url": "https://github.com/ChloeRainy/milkcome",
@@ -327,6 +327,17 @@
     "stars": 0,
     "forks": 0,
     "language": "HTML",
+    "archived": false
+  },
+  "chenxuuu/chouxianghua": {
+    "fullName": "chenxuuu/chouxianghua",
+    "url": "https://github.com/chenxuuu/chouxianghua",
+    "description": "🤡‍🐘🌸‍抽象话生成器网页/tg版，一键生成抽象话",
+    "createdAt": "2019-11-16T11:22:18Z",
+    "pushedAt": "2024-07-19T02:15:38Z",
+    "stars": 319,
+    "forks": 25,
+    "language": "Lua",
     "archived": false
   },
   "chrischen667788/office-zoo": {
@@ -346,7 +357,7 @@
     "description": "你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！",
     "createdAt": "2024-12-19T13:22:04Z",
     "pushedAt": "2025-06-20T14:42:44Z",
-    "stars": 2384,
+    "stars": 2383,
     "forks": 71,
     "language": "Python",
     "archived": false
@@ -395,17 +406,6 @@
     "language": "Python",
     "archived": false
   },
-  "diyeego/naiwa-pet": {
-    "fullName": "Diyeego/naiwa-pet",
-    "url": "https://github.com/Diyeego/naiwa-pet",
-    "description": "奶蛙桌宠 - Windows 桌面宠物应用",
-    "createdAt": "2026-08-02T12:56:14Z",
-    "pushedAt": "2026-08-03T13:27:46Z",
-    "stars": 2,
-    "forks": 0,
-    "language": "Python",
-    "archived": false
-  },
   "dataxiv/data-ruozhiba": {
     "fullName": "dataxiv/data-ruozhiba",
     "url": "https://github.com/dataxiv/data-ruozhiba",
@@ -417,14 +417,14 @@
     "language": null,
     "archived": false
   },
-  "danielzhangyc/vvquest": {
-    "fullName": "MemeMeow-Studio/MemeMeow",
-    "url": "https://github.com/MemeMeow-Studio/MemeMeow",
-    "description": "智能管理表情包",
-    "createdAt": "2025-02-11T13:28:11Z",
-    "pushedAt": "2026-09-20T05:58:15Z",
-    "stars": 1263,
-    "forks": 37,
+  "diyeego/naiwa-pet": {
+    "fullName": "Diyeego/naiwa-pet",
+    "url": "https://github.com/Diyeego/naiwa-pet",
+    "description": "奶蛙桌宠 - Windows 桌面宠物应用",
+    "createdAt": "2026-08-02T12:56:14Z",
+    "pushedAt": "2026-08-03T13:27:46Z",
+    "stars": 2,
+    "forks": 0,
     "language": "Python",
     "archived": false
   },
@@ -434,9 +434,20 @@
     "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report",
     "createdAt": "2025-06-25T16:40:22Z",
     "pushedAt": "2026-09-07T14:34:11Z",
-    "stars": 7291,
+    "stars": 7292,
     "forks": 326,
     "language": "TypeScript",
+    "archived": false
+  },
+  "danielzhangyc/vvquest": {
+    "fullName": "MemeMeow-Studio/MemeMeow",
+    "url": "https://github.com/MemeMeow-Studio/MemeMeow",
+    "description": "智能管理表情包",
+    "createdAt": "2025-02-11T13:28:11Z",
+    "pushedAt": "2026-09-20T05:58:15Z",
+    "stars": 1264,
+    "forks": 37,
+    "language": "Python",
     "archived": false
   },
   "cubewhymc/dingzhenservlet": {
@@ -483,15 +494,15 @@
     "language": "JavaScript",
     "archived": true
   },
-  "falafa/kemusan": {
-    "fullName": "falafa/kemusan",
-    "url": "https://github.com/falafa/kemusan",
-    "description": "科目三",
-    "createdAt": "2024-01-08T15:38:08Z",
-    "pushedAt": "2024-01-08T16:02:38Z",
-    "stars": 0,
-    "forks": 0,
-    "language": null,
+  "frinkleko/autohajimimosaic": {
+    "fullName": "frinkleko/AutoHajimiMosaic",
+    "url": "https://github.com/frinkleko/AutoHajimiMosaic",
+    "description": "一款自动为你的色图进行哈基米马赛克处理的打码器😎再也不用担心家里请不到高人了|自动哈基米打码器",
+    "createdAt": "2025-05-05T15:25:07Z",
+    "pushedAt": "2025-06-18T07:23:13Z",
+    "stars": 291,
+    "forks": 15,
+    "language": "Python",
     "archived": false
   },
   "frog1205/hot-meme-dict": {
@@ -505,26 +516,15 @@
     "language": "JavaScript",
     "archived": false
   },
-  "frinkleko/autohajimimosaic": {
-    "fullName": "frinkleko/AutoHajimiMosaic",
-    "url": "https://github.com/frinkleko/AutoHajimiMosaic",
-    "description": "一款自动为你的色图进行哈基米马赛克处理的打码器😎再也不用担心家里请不到高人了|自动哈基米打码器",
-    "createdAt": "2025-05-05T15:25:07Z",
-    "pushedAt": "2025-06-18T07:23:13Z",
-    "stars": 291,
-    "forks": 15,
-    "language": "Python",
-    "archived": false
-  },
-  "furina89757/maodiemod": {
-    "fullName": "furina89757/MaodieMod",
-    "url": "https://github.com/furina89757/MaodieMod",
-    "description": "Slay the Spire 2 character mod MaodieMod (耄耋Mod) - supports main and beta branches",
-    "createdAt": "2026-08-07T11:35:28Z",
-    "pushedAt": "2026-08-11T15:58:01Z",
+  "falafa/kemusan": {
+    "fullName": "falafa/kemusan",
+    "url": "https://github.com/falafa/kemusan",
+    "description": "科目三",
+    "createdAt": "2024-01-08T15:38:08Z",
+    "pushedAt": "2024-01-08T16:02:38Z",
     "stars": 0,
     "forks": 0,
-    "language": "C#",
+    "language": null,
     "archived": false
   },
   "funnysaltyfish/better-ruozhiba": {
@@ -538,6 +538,17 @@
     "language": null,
     "archived": false
   },
+  "furina89757/maodiemod": {
+    "fullName": "furina89757/MaodieMod",
+    "url": "https://github.com/furina89757/MaodieMod",
+    "description": "Slay the Spire 2 character mod MaodieMod (耄耋Mod) - supports main and beta branches",
+    "createdAt": "2026-08-07T11:35:28Z",
+    "pushedAt": "2026-08-11T15:58:01Z",
+    "stars": 0,
+    "forks": 0,
+    "language": "C#",
+    "archived": false
+  },
   "gamemcu/www-genshin": {
     "fullName": "gamemcu/www-genshin",
     "url": "https://github.com/gamemcu/www-genshin",
@@ -546,6 +557,28 @@
     "pushedAt": "2024-02-18T02:53:12Z",
     "stars": 1224,
     "forks": 271,
+    "language": "TypeScript",
+    "archived": false
+  },
+  "geekan/howtolivelonger": {
+    "fullName": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "description": "程序员延寿指南 | A programmer's guide to live longer",
+    "createdAt": "2022-04-16T04:15:18Z",
+    "pushedAt": "2025-05-19T14:10:41Z",
+    "stars": 35158,
+    "forks": 2366,
+    "language": null,
+    "archived": false
+  },
+  "generalgarnet/maodie-vs-dump-truck": {
+    "fullName": "generalgarnet/maodie-vs-dump-truck",
+    "url": "https://github.com/generalgarnet/maodie-vs-dump-truck",
+    "description": "耄耋大战泥头车 — 一只暴躁流浪橘猫大战美国郊区全部载具。2D 俯视动作 roguelike",
+    "createdAt": "2026-09-02T03:37:07Z",
+    "pushedAt": "2026-09-02T03:55:24Z",
+    "stars": 0,
+    "forks": 0,
     "language": "TypeScript",
     "archived": false
   },
@@ -560,14 +593,14 @@
     "language": "HTML",
     "archived": false
   },
-  "geekan/howtolivelonger": {
-    "fullName": "geekan/HowToLiveLonger",
-    "url": "https://github.com/geekan/HowToLiveLonger",
-    "description": "程序员延寿指南 | A programmer's guide to live longer",
-    "createdAt": "2022-04-16T04:15:18Z",
-    "pushedAt": "2025-05-19T14:10:41Z",
-    "stars": 35142,
-    "forks": 2365,
+  "gggeeeooorrrgggeee/nailong-memes": {
+    "fullName": "GGGeeeooorrrgggeee/nailong-memes",
+    "url": "https://github.com/GGGeeeooorrrgggeee/nailong-memes",
+    "description": "AstrBot 插件「来只奶龙」的默认奶龙图库仓库，专门收集抽象奶龙表情包，为插件提供表情包下载和本地图库补充。",
+    "createdAt": "2026-08-15T06:02:37Z",
+    "pushedAt": "2026-09-17T04:48:15Z",
+    "stars": 6,
+    "forks": 0,
     "language": null,
     "archived": false
   },
@@ -580,17 +613,6 @@
     "stars": 6,
     "forks": 0,
     "language": "Python",
-    "archived": false
-  },
-  "generalgarnet/maodie-vs-dump-truck": {
-    "fullName": "generalgarnet/maodie-vs-dump-truck",
-    "url": "https://github.com/generalgarnet/maodie-vs-dump-truck",
-    "description": "耄耋大战泥头车 — 一只暴躁流浪橘猫大战美国郊区全部载具。2D 俯视动作 roguelike",
-    "createdAt": "2026-09-02T03:37:07Z",
-    "pushedAt": "2026-09-02T03:55:24Z",
-    "stars": 0,
-    "forks": 0,
-    "language": "TypeScript",
     "archived": false
   },
   "gin-7/dsh-pet-remielle": {
@@ -615,15 +637,15 @@
     "language": "Go",
     "archived": false
   },
-  "gggeeeooorrrgggeee/nailong-memes": {
-    "fullName": "GGGeeeooorrrgggeee/nailong-memes",
-    "url": "https://github.com/GGGeeeooorrrgggeee/nailong-memes",
-    "description": "AstrBot 插件「来只奶龙」的默认奶龙图库仓库，专门收集抽象奶龙表情包，为插件提供表情包下载和本地图库补充。",
-    "createdAt": "2026-08-15T06:02:37Z",
-    "pushedAt": "2026-09-17T04:48:15Z",
-    "stars": 6,
-    "forks": 0,
-    "language": null,
+  "haixiangyan/cxk-dance": {
+    "fullName": "haixiangyan/cxk-dance",
+    "url": "https://github.com/haixiangyan/cxk-dance",
+    "description": "字符画：蔡徐坤跳舞",
+    "createdAt": "2020-06-21T03:01:13Z",
+    "pushedAt": "2021-07-03T03:09:58Z",
+    "stars": 7,
+    "forks": 1,
+    "language": "Python",
     "archived": false
   },
   "haaaae1/roll_maodie": {
@@ -635,17 +657,6 @@
     "stars": 1,
     "forks": 0,
     "language": "JavaScript",
-    "archived": false
-  },
-  "haixiangyan/cxk-dance": {
-    "fullName": "haixiangyan/cxk-dance",
-    "url": "https://github.com/haixiangyan/cxk-dance",
-    "description": "字符画：蔡徐坤跳舞",
-    "createdAt": "2020-06-21T03:01:13Z",
-    "pushedAt": "2021-07-03T03:09:58Z",
-    "stars": 7,
-    "forks": 1,
-    "language": "Python",
     "archived": false
   },
   "hikari31768/astrbot_plugin_genshinimpact": {
@@ -670,6 +681,17 @@
     "language": "JavaScript",
     "archived": false
   },
+  "hua-zhi-wan/otto-hzys": {
+    "fullName": "hua-zhi-wan/otto-hzys",
+    "url": "https://github.com/hua-zhi-wan/otto-hzys",
+    "description": "电棍otto语音活字印刷生成",
+    "createdAt": "2022-12-04T12:35:18Z",
+    "pushedAt": "2026-04-05T03:35:52Z",
+    "stars": 259,
+    "forks": 31,
+    "language": "Vue",
+    "archived": false
+  },
   "hitptep/dingzhen-oneeye": {
     "fullName": "hitptep/Dingzhen-Oneeye",
     "url": "https://github.com/hitptep/Dingzhen-Oneeye",
@@ -681,15 +703,15 @@
     "language": null,
     "archived": false
   },
-  "hua-zhi-wan/otto-hzys": {
-    "fullName": "hua-zhi-wan/otto-hzys",
-    "url": "https://github.com/hua-zhi-wan/otto-hzys",
-    "description": "电棍otto语音活字印刷生成",
-    "createdAt": "2022-12-04T12:35:18Z",
-    "pushedAt": "2026-04-05T03:35:52Z",
-    "stars": 260,
-    "forks": 31,
-    "language": "Vue",
+  "hw-whistleblower/true-story-of-pangu": {
+    "fullName": "HW-whistleblower/True-Story-of-Pangu",
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
+    "createdAt": "2025-07-05T20:40:24Z",
+    "pushedAt": "2025-07-09T14:08:11Z",
+    "stars": 11536,
+    "forks": 1287,
+    "language": null,
     "archived": false
   },
   "huaiyuechusan/muti-sbti": {
@@ -714,28 +736,6 @@
     "language": "C++",
     "archived": false
   },
-  "hw-whistleblower/true-story-of-pangu": {
-    "fullName": "HW-whistleblower/True-Story-of-Pangu",
-    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
-    "description": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。",
-    "createdAt": "2025-07-05T20:40:24Z",
-    "pushedAt": "2025-07-09T14:08:11Z",
-    "stars": 11537,
-    "forks": 1287,
-    "language": null,
-    "archived": false
-  },
-  "hzwer/llm-ruozhiba-qa": {
-    "fullName": "hzwer/LLM-Ruozhiba-QA",
-    "url": "https://github.com/hzwer/LLM-Ruozhiba-QA",
-    "description": null,
-    "createdAt": "2026-02-11T06:37:41Z",
-    "pushedAt": "2026-02-11T12:14:53Z",
-    "stars": 9,
-    "forks": 1,
-    "language": "HTML",
-    "archived": false
-  },
   "ighti35/heybox_crawler": {
     "fullName": "ighti35/heybox_crawler",
     "url": "https://github.com/ighti35/heybox_crawler",
@@ -743,17 +743,6 @@
     "createdAt": "2026-09-03T11:10:09Z",
     "pushedAt": "2026-09-03T11:21:59Z",
     "stars": 2,
-    "forks": 0,
-    "language": "Python",
-    "archived": false
-  },
-  "iris1598/astrbot_plugin_img_toolbox": {
-    "fullName": "iris1598/astrbot_plugin_img_toolbox",
-    "url": "https://github.com/iris1598/astrbot_plugin_img_toolbox",
-    "description": null,
-    "createdAt": "2026-08-27T05:52:48Z",
-    "pushedAt": "2026-09-13T18:46:38Z",
-    "stars": 0,
     "forks": 0,
     "language": "Python",
     "archived": false
@@ -769,6 +758,28 @@
     "language": "Python",
     "archived": false
   },
+  "hzwer/llm-ruozhiba-qa": {
+    "fullName": "hzwer/LLM-Ruozhiba-QA",
+    "url": "https://github.com/hzwer/LLM-Ruozhiba-QA",
+    "description": null,
+    "createdAt": "2026-02-11T06:37:41Z",
+    "pushedAt": "2026-02-11T12:14:53Z",
+    "stars": 9,
+    "forks": 1,
+    "language": "HTML",
+    "archived": false
+  },
+  "iris1598/astrbot_plugin_img_toolbox": {
+    "fullName": "iris1598/astrbot_plugin_img_toolbox",
+    "url": "https://github.com/iris1598/astrbot_plugin_img_toolbox",
+    "description": null,
+    "createdAt": "2026-08-27T05:52:48Z",
+    "pushedAt": "2026-09-13T18:46:38Z",
+    "stars": 0,
+    "forks": 0,
+    "language": "Python",
+    "archived": false
+  },
   "kanoyami/jinkela-rainbow-fart": {
     "fullName": "kanoyami/jinkela-rainbow-fart",
     "url": "https://github.com/kanoyami/jinkela-rainbow-fart",
@@ -778,17 +789,6 @@
     "stars": 12,
     "forks": 0,
     "language": null,
-    "archived": false
-  },
-  "kaibutsusama/opencv-caixukun": {
-    "fullName": "KaibutsuSama/opencv-caixukun",
-    "url": "https://github.com/KaibutsuSama/opencv-caixukun",
-    "description": "用Open-CV C++实现让蔡徐坤跳舞+素描效果的一个简单例子",
-    "createdAt": "2023-02-06T06:57:55Z",
-    "pushedAt": "2023-02-06T07:50:41Z",
-    "stars": 8,
-    "forks": 1,
-    "language": "C++",
     "archived": false
   },
   "kasuganosoras/cxk": {
@@ -802,13 +802,24 @@
     "language": "Python",
     "archived": false
   },
+  "kaibutsusama/opencv-caixukun": {
+    "fullName": "KaibutsuSama/opencv-caixukun",
+    "url": "https://github.com/KaibutsuSama/opencv-caixukun",
+    "description": "用Open-CV C++实现让蔡徐坤跳舞+素描效果的一个简单例子",
+    "createdAt": "2023-02-06T06:57:55Z",
+    "pushedAt": "2023-02-06T07:50:41Z",
+    "stars": 8,
+    "forks": 1,
+    "language": "C++",
+    "archived": false
+  },
   "kato-shoko705/phoebe-hub": {
     "fullName": "Kato-Shoko705/Phoebe-Hub",
     "url": "https://github.com/Kato-Shoko705/Phoebe-Hub",
     "description": "全球最可爱的鸣潮角色菲比表情包收集站-存放数据的",
     "createdAt": "2026-06-17T04:16:05Z",
-    "pushedAt": "2026-09-16T13:24:27Z",
-    "stars": 453,
+    "pushedAt": "2026-09-20T09:39:06Z",
+    "stars": 455,
     "forks": 15,
     "language": "JavaScript",
     "archived": false
@@ -819,19 +830,8 @@
     "description": "天涯 kkndme 神贴聊房价",
     "createdAt": "2019-07-18T05:13:44Z",
     "pushedAt": "2026-06-04T00:22:39Z",
-    "stars": 19441,
+    "stars": 19442,
     "forks": 3837,
-    "language": null,
-    "archived": false
-  },
-  "leymore/ruozhiba": {
-    "fullName": "Leymore/ruozhiba",
-    "url": "https://github.com/Leymore/ruozhiba",
-    "description": null,
-    "createdAt": "2023-05-01T14:46:08Z",
-    "pushedAt": "2023-05-01T14:46:54Z",
-    "stars": 760,
-    "forks": 69,
     "language": null,
     "archived": false
   },
@@ -846,6 +846,17 @@
     "language": "Java",
     "archived": false
   },
+  "leymore/ruozhiba": {
+    "fullName": "Leymore/ruozhiba",
+    "url": "https://github.com/Leymore/ruozhiba",
+    "description": null,
+    "createdAt": "2023-05-01T14:46:08Z",
+    "pushedAt": "2023-05-01T14:46:54Z",
+    "stars": 761,
+    "forks": 69,
+    "language": null,
+    "archived": false
+  },
   "liuwenji007/dsh-muyu": {
     "fullName": "liuwenji007/dsh-muyu",
     "url": "https://github.com/liuwenji007/dsh-muyu",
@@ -853,17 +864,6 @@
     "createdAt": "2026-08-19T03:25:27Z",
     "pushedAt": "2026-09-15T05:13:10Z",
     "stars": 3,
-    "forks": 0,
-    "language": "TypeScript",
-    "archived": false
-  },
-  "lagerstroemiahu/meowadventure": {
-    "fullName": "LagerstroemiaHu/meowadventure",
-    "url": "https://github.com/LagerstroemiaHu/meowadventure",
-    "description": "圆头耄耋冒险_正式版",
-    "createdAt": "2026-01-16T04:03:12Z",
-    "pushedAt": "2026-01-19T03:45:45Z",
-    "stars": 2,
     "forks": 0,
     "language": "TypeScript",
     "archived": false
@@ -890,15 +890,15 @@
     "language": "TypeScript",
     "archived": false
   },
-  "lov-team/dagoujiao": {
-    "fullName": "lov-team/dagoujiao",
-    "url": "https://github.com/lov-team/dagoujiao",
-    "description": "最近特别火的视频大狗叫",
-    "createdAt": "2026-07-21T14:28:09Z",
-    "pushedAt": "2026-07-23T08:38:16Z",
-    "stars": 111,
-    "forks": 10,
-    "language": "JavaScript",
+  "lagerstroemiahu/meowadventure": {
+    "fullName": "LagerstroemiaHu/meowadventure",
+    "url": "https://github.com/LagerstroemiaHu/meowadventure",
+    "description": "圆头耄耋冒险_正式版",
+    "createdAt": "2026-01-16T04:03:12Z",
+    "pushedAt": "2026-01-19T03:45:45Z",
+    "stars": 2,
+    "forks": 0,
+    "language": "TypeScript",
     "archived": false
   },
   "logxk/nailong": {
@@ -912,14 +912,14 @@
     "language": "Python",
     "archived": false
   },
-  "ltlittlekk/otto": {
-    "fullName": "ltlittlekk/OTTO",
-    "url": "https://github.com/ltlittlekk/OTTO",
-    "description": "电棍游戏",
-    "createdAt": "2024-02-27T03:49:36Z",
-    "pushedAt": "2024-02-27T04:05:36Z",
-    "stars": 66,
-    "forks": 6,
+  "lov-team/dagoujiao": {
+    "fullName": "lov-team/dagoujiao",
+    "url": "https://github.com/lov-team/dagoujiao",
+    "description": "最近特别火的视频大狗叫",
+    "createdAt": "2026-07-21T14:28:09Z",
+    "pushedAt": "2026-07-23T08:38:16Z",
+    "stars": 111,
+    "forks": 10,
     "language": "JavaScript",
     "archived": false
   },
@@ -932,6 +932,17 @@
     "stars": 119,
     "forks": 7,
     "language": "Python",
+    "archived": false
+  },
+  "ltlittlekk/otto": {
+    "fullName": "ltlittlekk/OTTO",
+    "url": "https://github.com/ltlittlekk/OTTO",
+    "description": "电棍游戏",
+    "createdAt": "2024-02-27T03:49:36Z",
+    "pushedAt": "2024-02-27T04:05:36Z",
+    "stars": 66,
+    "forks": 6,
+    "language": "JavaScript",
     "archived": false
   },
   "lyryblog/jilehe": {
@@ -956,28 +967,6 @@
     "language": "TypeScript",
     "archived": false
   },
-  "mememeow-studio/mememeow": {
-    "fullName": "MemeMeow-Studio/MemeMeow",
-    "url": "https://github.com/MemeMeow-Studio/MemeMeow",
-    "description": "智能管理表情包",
-    "createdAt": "2025-02-11T13:28:11Z",
-    "pushedAt": "2026-09-20T05:58:15Z",
-    "stars": 1263,
-    "forks": 37,
-    "language": "Python",
-    "archived": false
-  },
-  "menzi11/bullshitgenerator": {
-    "fullName": "menzi11/BullshitGenerator",
-    "url": "https://github.com/menzi11/BullshitGenerator",
-    "description": " Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.",
-    "createdAt": "2019-10-28T17:05:51Z",
-    "pushedAt": "2021-07-10T09:44:32Z",
-    "stars": 15502,
-    "forks": 2780,
-    "language": "JavaScript",
-    "archived": false
-  },
   "mcapricorns/niu-lai-3d": {
     "fullName": "MCapricorns/niu-lai-3d",
     "url": "https://github.com/MCapricorns/niu-lai-3d",
@@ -1000,6 +989,28 @@
     "language": "Python",
     "archived": false
   },
+  "mememeow-studio/mememeow": {
+    "fullName": "MemeMeow-Studio/MemeMeow",
+    "url": "https://github.com/MemeMeow-Studio/MemeMeow",
+    "description": "智能管理表情包",
+    "createdAt": "2025-02-11T13:28:11Z",
+    "pushedAt": "2026-09-20T05:58:15Z",
+    "stars": 1264,
+    "forks": 37,
+    "language": "Python",
+    "archived": false
+  },
+  "menzi11/bullshitgenerator": {
+    "fullName": "menzi11/BullshitGenerator",
+    "url": "https://github.com/menzi11/BullshitGenerator",
+    "description": " Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.",
+    "createdAt": "2019-10-28T17:05:51Z",
+    "pushedAt": "2021-07-10T09:44:32Z",
+    "stars": 15502,
+    "forks": 2780,
+    "language": "JavaScript",
+    "archived": false
+  },
   "meowandy/fb-emoji": {
     "fullName": "MeowAndy/fb-emoji",
     "url": "https://github.com/MeowAndy/fb-emoji",
@@ -1011,15 +1022,15 @@
     "language": null,
     "archived": false
   },
-  "mimokit/phoebehubuid": {
-    "fullName": "MimoKit/PhoebeHubUID",
-    "url": "https://github.com/MimoKit/PhoebeHubUID",
-    "description": "菲比表情包随机获取与模糊搜索 GsCore 插件",
-    "createdAt": "2026-07-11T14:40:20Z",
-    "pushedAt": "2026-07-11T16:32:56Z",
-    "stars": 2,
+  "misakacirno/bushigemen": {
+    "fullName": "MisakaCirno/BuShiGeMen",
+    "url": "https://github.com/MisakaCirno/BuShiGeMen",
+    "description": "不是，哥们？",
+    "createdAt": "2024-09-15T07:51:51Z",
+    "pushedAt": "2024-09-17T08:37:13Z",
+    "stars": 1,
     "forks": 0,
-    "language": "Python",
+    "language": "C#",
     "archived": false
   },
   "ming-14/o.o": {
@@ -1031,6 +1042,17 @@
     "stars": 0,
     "forks": 0,
     "language": "C++",
+    "archived": false
+  },
+  "mimokit/phoebehubuid": {
+    "fullName": "MimoKit/PhoebeHubUID",
+    "url": "https://github.com/MimoKit/PhoebeHubUID",
+    "description": "菲比表情包随机获取与模糊搜索 GsCore 插件",
+    "createdAt": "2026-07-11T14:40:20Z",
+    "pushedAt": "2026-07-11T16:32:56Z",
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
     "archived": false
   },
   "miorange02/astrbot_plugin_mhybible": {
@@ -1053,17 +1075,6 @@
     "stars": 3,
     "forks": 0,
     "language": "Batchfile",
-    "archived": false
-  },
-  "misakacirno/bushigemen": {
-    "fullName": "MisakaCirno/BuShiGeMen",
-    "url": "https://github.com/MisakaCirno/BuShiGeMen",
-    "description": "不是，哥们？",
-    "createdAt": "2024-09-15T07:51:51Z",
-    "pushedAt": "2024-09-17T08:37:13Z",
-    "stars": 1,
-    "forks": 0,
-    "language": "C#",
     "archived": false
   },
   "monlohua/geng-skill": {
@@ -1099,6 +1110,17 @@
     "language": "Java",
     "archived": false
   },
+  "nayukiiii/astrbot_plugin_bili_slang": {
+    "fullName": "Nayukiiii/astrbot_plugin_bili_slang",
+    "url": "https://github.com/Nayukiiii/astrbot_plugin_bili_slang",
+    "description": "让 ATRI 从 B 站学网络黑话和正经知识：游戏/鬼畜区热评提炼梗（待审后注入群聊），知识/科技区提炼知识点存进 AstrBot 知识库",
+    "createdAt": "2026-08-09T08:14:15Z",
+    "pushedAt": "2026-08-09T08:19:20Z",
+    "stars": 1,
+    "forks": 0,
+    "language": "Python",
+    "archived": false
+  },
   "mzfl258/hachimi-adventure": {
     "fullName": "mzfl258/Hachimi-Adventure",
     "url": "https://github.com/mzfl258/Hachimi-Adventure",
@@ -1110,15 +1132,15 @@
     "language": "C++",
     "archived": false
   },
-  "nayukiiii/astrbot_plugin_bili_slang": {
-    "fullName": "Nayukiiii/astrbot_plugin_bili_slang",
-    "url": "https://github.com/Nayukiiii/astrbot_plugin_bili_slang",
-    "description": "让 ATRI 从 B 站学网络黑话和正经知识：游戏/鬼畜区热评提炼梗（待审后注入群聊），知识/科技区提炼知识点存进 AstrBot 知识库",
-    "createdAt": "2026-08-09T08:14:15Z",
-    "pushedAt": "2026-08-09T08:19:20Z",
+  "nonormalcreeper/meme-ai": {
+    "fullName": "NoNormalCreeper/meme-ai",
+    "url": "https://github.com/NoNormalCreeper/meme-ai",
+    "description": null,
+    "createdAt": "2025-11-25T12:49:43Z",
+    "pushedAt": "2025-12-24T16:00:31Z",
     "stars": 1,
     "forks": 0,
-    "language": "Python",
+    "language": "TypeScript",
     "archived": false
   },
   "openlablab/sbti": {
@@ -1143,14 +1165,14 @@
     "language": "TypeScript",
     "archived": false
   },
-  "nonormalcreeper/meme-ai": {
-    "fullName": "NoNormalCreeper/meme-ai",
-    "url": "https://github.com/NoNormalCreeper/meme-ai",
-    "description": null,
-    "createdAt": "2025-11-25T12:49:43Z",
-    "pushedAt": "2025-12-24T16:00:31Z",
-    "stars": 1,
-    "forks": 0,
+  "panedioic/delta-force-loot-simulator": {
+    "fullName": "panedioic/delta-force-loot-simulator",
+    "url": "https://github.com/panedioic/delta-force-loot-simulator",
+    "description": "三角洲行动舔包模拟器 | The loot simulator of the game Delta Force.",
+    "createdAt": "2025-04-16T02:30:58Z",
+    "pushedAt": "2025-06-21T08:37:32Z",
+    "stars": 10,
+    "forks": 3,
     "language": "TypeScript",
     "archived": false
   },
@@ -1163,28 +1185,6 @@
     "stars": 1,
     "forks": 0,
     "language": "JavaScript",
-    "archived": false
-  },
-  "panedioic/delta-force-loot-simulator": {
-    "fullName": "panedioic/delta-force-loot-simulator",
-    "url": "https://github.com/panedioic/delta-force-loot-simulator",
-    "description": "三角洲行动舔包模拟器 | The loot simulator of the game Delta Force.",
-    "createdAt": "2025-04-16T02:30:58Z",
-    "pushedAt": "2025-06-21T08:37:32Z",
-    "stars": 10,
-    "forks": 3,
-    "language": "TypeScript",
-    "archived": false
-  },
-  "polaris-aeterna/cyber-shangxiang": {
-    "fullName": "Polaris-Aeterna/cyber-shangxiang",
-    "url": "https://github.com/Polaris-Aeterna/cyber-shangxiang",
-    "description": "赛博上香 · 面向玄学编程框架:为代码上香、求签、看黄历、攒功德。玄学不替代测试。",
-    "createdAt": "2026-06-29T21:33:50Z",
-    "pushedAt": "2026-06-29T21:50:23Z",
-    "stars": 3,
-    "forks": 0,
-    "language": "HTML",
     "archived": false
   },
   "pengyichen2026/nailong-voice-clone": {
@@ -1231,6 +1231,17 @@
     "language": "Python",
     "archived": false
   },
+  "polaris-aeterna/cyber-shangxiang": {
+    "fullName": "Polaris-Aeterna/cyber-shangxiang",
+    "url": "https://github.com/Polaris-Aeterna/cyber-shangxiang",
+    "description": "赛博上香 · 面向玄学编程框架:为代码上香、求签、看黄历、攒功德。玄学不替代测试。",
+    "createdAt": "2026-06-29T21:33:50Z",
+    "pushedAt": "2026-06-29T21:50:23Z",
+    "stars": 3,
+    "forks": 0,
+    "language": "HTML",
+    "archived": false
+  },
   "saltyfishleavesyoung/yydz": {
     "fullName": "SaltyfishLeavesyoung/YYDZ",
     "url": "https://github.com/SaltyfishLeavesyoung/YYDZ",
@@ -1253,17 +1264,6 @@
     "language": "HTML",
     "archived": false
   },
-  "ruziniuuuuu/awesome-hajimi": {
-    "fullName": "ruziniuuuuu/awesome-hajimi",
-    "url": "https://github.com/ruziniuuuuu/awesome-hajimi",
-    "description": "A collection of hajimi (哈基米 in Chinese) on the Internet.",
-    "createdAt": "2025-07-04T04:07:25Z",
-    "pushedAt": "2026-09-15T07:35:59Z",
-    "stars": 2,
-    "forks": 0,
-    "language": "Python",
-    "archived": false
-  },
   "saoknight/helang": {
     "fullName": "SAOKnight/helang",
     "url": "https://github.com/SAOKnight/helang",
@@ -1275,14 +1275,14 @@
     "language": null,
     "archived": false
   },
-  "scorcsoft/monkeyapp": {
-    "fullName": "Scorcsoft/MonkeyApp",
-    "url": "https://github.com/Scorcsoft/MonkeyApp",
-    "description": "monkey app - 在Mac状态栏显示蓝队吗喽们的下班倒计时",
-    "createdAt": "2024-07-22T01:40:18Z",
-    "pushedAt": "2024-08-07T01:49:31Z",
-    "stars": 16,
-    "forks": 4,
+  "ruziniuuuuu/awesome-hajimi": {
+    "fullName": "ruziniuuuuu/awesome-hajimi",
+    "url": "https://github.com/ruziniuuuuu/awesome-hajimi",
+    "description": "A collection of hajimi (哈基米 in Chinese) on the Internet.",
+    "createdAt": "2025-07-04T04:07:25Z",
+    "pushedAt": "2026-09-20T07:44:33Z",
+    "stars": 2,
+    "forks": 0,
     "language": "Python",
     "archived": false
   },
@@ -1295,6 +1295,17 @@
     "stars": 0,
     "forks": 0,
     "language": "JavaScript",
+    "archived": false
+  },
+  "scorcsoft/monkeyapp": {
+    "fullName": "Scorcsoft/MonkeyApp",
+    "url": "https://github.com/Scorcsoft/MonkeyApp",
+    "description": "monkey app - 在Mac状态栏显示蓝队吗喽们的下班倒计时",
+    "createdAt": "2024-07-22T01:40:18Z",
+    "pushedAt": "2024-08-07T01:49:31Z",
+    "stars": 16,
+    "forks": 4,
+    "language": "Python",
     "archived": false
   },
   "spawner1145/nailongrecognize": {
@@ -1319,17 +1330,6 @@
     "language": "TypeScript",
     "archived": false
   },
-  "superxiaopi/art-museum": {
-    "fullName": "superxiaopi/art-museum",
-    "url": "https://github.com/superxiaopi/art-museum",
-    "description": "奶龙艺术博物馆",
-    "createdAt": "2026-08-20T23:34:37Z",
-    "pushedAt": "2026-08-20T23:41:35Z",
-    "stars": 0,
-    "forks": 0,
-    "language": "TypeScript",
-    "archived": false
-  },
   "swaylq/sunge-skill": {
     "fullName": "swaylq/sunge-skill",
     "url": "https://github.com/swaylq/sunge-skill",
@@ -1338,17 +1338,6 @@
     "pushedAt": "2026-08-28T11:56:40Z",
     "stars": 11,
     "forks": 2,
-    "language": "Python",
-    "archived": false
-  },
-  "starry-night-studio/nonebot-plugin-df-armor-repair-simulator": {
-    "fullName": "Starry-Night-Studio/nonebot-plugin-df-armor-repair-simulator",
-    "url": "https://github.com/Starry-Night-Studio/nonebot-plugin-df-armor-repair-simulator",
-    "description": "《三角洲行动》护甲维修模拟器",
-    "createdAt": "2025-05-31T12:46:33Z",
-    "pushedAt": "2025-05-31T13:45:55Z",
-    "stars": 2,
-    "forks": 0,
     "language": "Python",
     "archived": false
   },
@@ -1361,6 +1350,17 @@
     "stars": 0,
     "forks": 0,
     "language": "HTML",
+    "archived": false
+  },
+  "starry-night-studio/nonebot-plugin-df-armor-repair-simulator": {
+    "fullName": "Starry-Night-Studio/nonebot-plugin-df-armor-repair-simulator",
+    "url": "https://github.com/Starry-Night-Studio/nonebot-plugin-df-armor-repair-simulator",
+    "description": "《三角洲行动》护甲维修模拟器",
+    "createdAt": "2025-05-31T12:46:33Z",
+    "pushedAt": "2025-05-31T13:45:55Z",
+    "stars": 2,
+    "forks": 0,
+    "language": "Python",
     "archived": false
   },
   "thedeadly-cat/hakimi-suanming": {
@@ -1396,17 +1396,6 @@
     "language": null,
     "archived": false
   },
-  "timothy1207/arknightsendfield_big_nailoong": {
-    "fullName": "timothy1207/ArknightsEndfield_big_Nailoong",
-    "url": "https://github.com/timothy1207/ArknightsEndfield_big_Nailoong",
-    "description": "这是我自己开发的终末地“合成大奶龙“游戏",
-    "createdAt": "2026-09-03T04:01:27Z",
-    "pushedAt": "2026-09-03T05:40:21Z",
-    "stars": 1,
-    "forks": 0,
-    "language": "GDScript",
-    "archived": false
-  },
   "timetetng/astrbot_plugin_phoebehub": {
     "fullName": "timetetng/astrbot_plugin_phoebehub",
     "url": "https://github.com/timetetng/astrbot_plugin_phoebehub",
@@ -1418,15 +1407,15 @@
     "language": "Python",
     "archived": false
   },
-  "tovarsh/open-pygame-cxkwithbasketball": {
-    "fullName": "tovarsh/open-pygame-CxkWithBasketball",
-    "url": "https://github.com/tovarsh/open-pygame-CxkWithBasketball",
-    "description": "进来吧, 包含了5000字的课设报告。python课程, 游戏课设, 采用pygame库, 蔡徐坤大战篮球",
-    "createdAt": "2022-12-29T17:30:08Z",
-    "pushedAt": "2023-01-11T13:47:53Z",
-    "stars": 8,
-    "forks": 2,
-    "language": "Python",
+  "timothy1207/arknightsendfield_big_nailoong": {
+    "fullName": "timothy1207/ArknightsEndfield_big_Nailoong",
+    "url": "https://github.com/timothy1207/ArknightsEndfield_big_Nailoong",
+    "description": "这是我自己开发的终末地“合成大奶龙“游戏",
+    "createdAt": "2026-09-03T04:01:27Z",
+    "pushedAt": "2026-09-03T05:40:21Z",
+    "stars": 1,
+    "forks": 0,
+    "language": "GDScript",
     "archived": false
   },
   "trainerpikachu/manbonese": {
@@ -1440,6 +1429,28 @@
     "language": "HTML",
     "archived": false
   },
+  "tovarsh/open-pygame-cxkwithbasketball": {
+    "fullName": "tovarsh/open-pygame-CxkWithBasketball",
+    "url": "https://github.com/tovarsh/open-pygame-CxkWithBasketball",
+    "description": "进来吧, 包含了5000字的课设报告。python课程, 游戏课设, 采用pygame库, 蔡徐坤大战篮球",
+    "createdAt": "2022-12-29T17:30:08Z",
+    "pushedAt": "2023-01-11T13:47:53Z",
+    "stars": 8,
+    "forks": 2,
+    "language": "Python",
+    "archived": false
+  },
+  "tsukimisaka/mambotts": {
+    "fullName": "Tsukimisaka/MamboTTS",
+    "url": "https://github.com/Tsukimisaka/MamboTTS",
+    "description": "本地曼波配音，文字转语音工具，利用本地 NVIDIA 显卡运行，无需调用第三方API，开箱即用",
+    "createdAt": "2026-06-30T09:28:03Z",
+    "pushedAt": "2026-09-15T07:45:47Z",
+    "stars": 69,
+    "forks": 6,
+    "language": "Python",
+    "archived": false
+  },
   "uzi-create/maodie_pet": {
     "fullName": "Uzi-create/maodie_pet",
     "url": "https://github.com/Uzi-create/maodie_pet",
@@ -1451,15 +1462,15 @@
     "language": "Python",
     "archived": false
   },
-  "tsukimisaka/mambotts": {
-    "fullName": "Tsukimisaka/MamboTTS",
-    "url": "https://github.com/Tsukimisaka/MamboTTS",
-    "description": "本地曼波配音，文字转语音工具，利用本地 NVIDIA 显卡运行，无需调用第三方API，开箱即用",
-    "createdAt": "2026-06-30T09:28:03Z",
-    "pushedAt": "2026-09-15T07:45:47Z",
-    "stars": 68,
-    "forks": 6,
-    "language": "Python",
+  "superxiaopi/art-museum": {
+    "fullName": "superxiaopi/art-museum",
+    "url": "https://github.com/superxiaopi/art-museum",
+    "description": "奶龙艺术博物馆",
+    "createdAt": "2026-08-20T23:34:37Z",
+    "pushedAt": "2026-08-20T23:41:35Z",
+    "stars": 0,
+    "forks": 0,
+    "language": "TypeScript",
     "archived": false
   },
   "v-crescent/da_gou_jiao": {
@@ -1473,17 +1484,6 @@
     "language": "C#",
     "archived": false
   },
-  "vegetable-kun/dsh_plugin_taffy": {
-    "fullName": "vegetable-kun/DSH_Plugin_Taffy",
-    "url": "https://github.com/vegetable-kun/DSH_Plugin_Taffy",
-    "description": "塔菲DeepSeek Harness 表情包状态机插件",
-    "createdAt": "2026-08-17T03:42:53Z",
-    "pushedAt": "2026-09-11T09:21:40Z",
-    "stars": 2,
-    "forks": 0,
-    "language": "JavaScript",
-    "archived": false
-  },
   "vincent-the-gamer/you-are-right": {
     "fullName": "Vincent-the-gamer/you-are-right",
     "url": "https://github.com/Vincent-the-gamer/you-are-right",
@@ -1495,15 +1495,15 @@
     "language": "Rust",
     "archived": true
   },
-  "wanghehe123/dsh-friend": {
-    "fullName": "wanghehe123/dsh-Friend",
-    "url": "https://github.com/wanghehe123/dsh-Friend",
-    "description": "人格化伴侣插件 for DeepSeek Harness：角色卡、语音、Live2D、本地记忆与工作陪伴。",
-    "createdAt": "2026-08-13T17:37:12Z",
-    "pushedAt": "2026-08-15T05:38:38Z",
-    "stars": 1,
+  "vegetable-kun/dsh_plugin_taffy": {
+    "fullName": "vegetable-kun/DSH_Plugin_Taffy",
+    "url": "https://github.com/vegetable-kun/DSH_Plugin_Taffy",
+    "description": "塔菲DeepSeek Harness 表情包状态机插件",
+    "createdAt": "2026-08-17T03:42:53Z",
+    "pushedAt": "2026-09-11T09:21:40Z",
+    "stars": 2,
     "forks": 0,
-    "language": "TypeScript",
+    "language": "JavaScript",
     "archived": false
   },
   "w111aaam/ottorush": {
@@ -1528,6 +1528,17 @@
     "language": "HTML",
     "archived": false
   },
+  "wanghehe123/dsh-friend": {
+    "fullName": "wanghehe123/dsh-Friend",
+    "url": "https://github.com/wanghehe123/dsh-Friend",
+    "description": "人格化伴侣插件 for DeepSeek Harness：角色卡、语音、Live2D、本地记忆与工作陪伴。",
+    "createdAt": "2026-08-13T17:37:12Z",
+    "pushedAt": "2026-08-15T05:38:38Z",
+    "stars": 1,
+    "forks": 0,
+    "language": "TypeScript",
+    "archived": false
+  },
   "warma10032/hajimi-encoder": {
     "fullName": "Warma10032/hajimi-encoder",
     "url": "https://github.com/Warma10032/hajimi-encoder",
@@ -1536,17 +1547,6 @@
     "pushedAt": "2025-07-29T05:55:48Z",
     "stars": 50,
     "forks": 3,
-    "language": "JavaScript",
-    "archived": false
-  },
-  "whitefirer/dsh-niulai-pet": {
-    "fullName": "whitefirer/dsh-niulai-pet",
-    "url": "https://github.com/whitefirer/dsh-niulai-pet",
-    "description": "牛来桌宠：agent 任务完成它就蹦出来喊「妈～～妈～～」——dsh 纯客户端桌宠插件（6 皮肤/签名动作/合成叫声）",
-    "createdAt": "2026-08-18T20:32:42Z",
-    "pushedAt": "2026-09-01T20:37:05Z",
-    "stars": 16,
-    "forks": 1,
     "language": "JavaScript",
     "archived": false
   },
@@ -1559,6 +1559,28 @@
     "stars": 601,
     "forks": 86,
     "language": "Vue",
+    "archived": false
+  },
+  "wkgcass/hachima": {
+    "fullName": "wkgcass/hachima",
+    "url": "https://github.com/wkgcass/hachima",
+    "description": "哈基码各语言实现",
+    "createdAt": "2025-09-07T07:42:30Z",
+    "pushedAt": "2025-09-07T12:39:51Z",
+    "stars": 34,
+    "forks": 5,
+    "language": "HTML",
+    "archived": false
+  },
+  "whitefirer/dsh-niulai-pet": {
+    "fullName": "whitefirer/dsh-niulai-pet",
+    "url": "https://github.com/whitefirer/dsh-niulai-pet",
+    "description": "牛来桌宠：agent 任务完成它就蹦出来喊「妈～～妈～～」——dsh 纯客户端桌宠插件（6 皮肤/签名动作/合成叫声）",
+    "createdAt": "2026-08-18T20:32:42Z",
+    "pushedAt": "2026-09-01T20:37:05Z",
+    "stars": 16,
+    "forks": 1,
+    "language": "JavaScript",
     "archived": false
   },
   "woainiunai/yellow-belly-creature-desktop": {
@@ -1579,19 +1601,8 @@
     "createdAt": "2026-08-27T19:48:42Z",
     "pushedAt": "2026-08-28T00:13:18Z",
     "stars": 36,
-    "forks": 9,
+    "forks": 8,
     "language": "JavaScript",
-    "archived": false
-  },
-  "wkgcass/hachima": {
-    "fullName": "wkgcass/hachima",
-    "url": "https://github.com/wkgcass/hachima",
-    "description": "哈基码各语言实现",
-    "createdAt": "2025-09-07T07:42:30Z",
-    "pushedAt": "2025-09-07T12:39:51Z",
-    "stars": 34,
-    "forks": 5,
-    "language": "HTML",
     "archived": false
   },
   "wuxie888/sunxue-skill": {
@@ -1605,15 +1616,15 @@
     "language": null,
     "archived": false
   },
-  "wwyjingjing/hajimi-idle": {
-    "fullName": "wwyjingjing/hajimi-idle",
-    "url": "https://github.com/wwyjingjing/hajimi-idle",
-    "description": "哈基杯-基狗对邦 · 挂机养成游戏",
-    "createdAt": "2026-08-16T04:20:58Z",
-    "pushedAt": "2026-08-23T06:27:42Z",
-    "stars": 0,
-    "forks": 0,
-    "language": "JavaScript",
+  "wyq138/maodiefire-antivirus": {
+    "fullName": "wyq138/MaodieFire-Antivirus",
+    "url": "https://github.com/wyq138/MaodieFire-Antivirus",
+    "description": "耄耋安全软件 - WPF桌面安全防护系统 | MaodieFire Antivirus",
+    "createdAt": "2026-06-20T04:42:05Z",
+    "pushedAt": "2026-08-27T14:13:14Z",
+    "stars": 6,
+    "forks": 1,
+    "language": "C#",
     "archived": false
   },
   "wwyjingjing/hakimi-stress-evolution": {
@@ -1627,26 +1638,26 @@
     "language": "TypeScript",
     "archived": false
   },
+  "wwyjingjing/hajimi-idle": {
+    "fullName": "wwyjingjing/hajimi-idle",
+    "url": "https://github.com/wwyjingjing/hajimi-idle",
+    "description": "哈基杯-基狗对邦 · 挂机养成游戏",
+    "createdAt": "2026-08-16T04:20:58Z",
+    "pushedAt": "2026-08-23T06:27:42Z",
+    "stars": 0,
+    "forks": 0,
+    "language": "JavaScript",
+    "archived": false
+  },
   "xmimu/manbo-tts": {
     "fullName": "xmimu/manbo-tts",
     "url": "https://github.com/xmimu/manbo-tts",
     "description": "基于 Tauri + Vue 3 + TypeScript 构建的桌面端语音生成应用。",
     "createdAt": "2026-02-28T16:20:48Z",
     "pushedAt": "2026-08-22T09:38:28Z",
-    "stars": 109,
+    "stars": 110,
     "forks": 5,
     "language": "Vue",
-    "archived": false
-  },
-  "wyq138/maodiefire-antivirus": {
-    "fullName": "wyq138/MaodieFire-Antivirus",
-    "url": "https://github.com/wyq138/MaodieFire-Antivirus",
-    "description": "耄耋安全软件 - WPF桌面安全防护系统 | MaodieFire Antivirus",
-    "createdAt": "2026-06-20T04:42:05Z",
-    "pushedAt": "2026-08-27T14:13:14Z",
-    "stars": 6,
-    "forks": 1,
-    "language": "C#",
     "archived": false
   },
   "xzhao233/laodasong": {
@@ -1656,6 +1667,17 @@
     "createdAt": "2023-08-18T02:36:54Z",
     "pushedAt": "2023-08-26T12:11:30Z",
     "stars": 4,
+    "forks": 0,
+    "language": "Python",
+    "archived": false
+  },
+  "yhl18s/mamba-skill": {
+    "fullName": "yhl18s/mamba-skill",
+    "url": "https://github.com/yhl18s/mamba-skill",
+    "description": "科比·布莱恩特 AI 人格配置，基于中文互联网语料蒸馏",
+    "createdAt": "2026-06-24T03:18:57Z",
+    "pushedAt": "2026-06-24T03:25:09Z",
+    "stars": 1,
     "forks": 0,
     "language": "Python",
     "archived": false
@@ -1671,28 +1693,6 @@
     "language": null,
     "archived": false
   },
-  "younghusband/huawei-od-active-manage": {
-    "fullName": "Younghusband/huawei-od-active-manage",
-    "url": "https://github.com/Younghusband/huawei-od-active-manage",
-    "description": "华为式主动管理",
-    "createdAt": "2025-06-30T11:32:49Z",
-    "pushedAt": "2025-06-30T11:24:53Z",
-    "stars": 469,
-    "forks": 304,
-    "language": null,
-    "archived": false
-  },
-  "yhl18s/mamba-skill": {
-    "fullName": "yhl18s/mamba-skill",
-    "url": "https://github.com/yhl18s/mamba-skill",
-    "description": "科比·布莱恩特 AI 人格配置，基于中文互联网语料蒸馏",
-    "createdAt": "2026-06-24T03:18:57Z",
-    "pushedAt": "2026-06-24T03:25:09Z",
-    "stars": 1,
-    "forks": 0,
-    "language": "Python",
-    "archived": false
-  },
   "youxam/kobe_numbers": {
     "fullName": "YouXam/kobe_numbers",
     "url": "https://github.com/YouXam/kobe_numbers",
@@ -1704,17 +1704,6 @@
     "language": "Typst",
     "archived": false
   },
-  "ywhhhhhhh/dagoujiao": {
-    "fullName": "ywhhhhhhh/dagoujiao",
-    "url": "https://github.com/ywhhhhhhh/dagoujiao",
-    "description": "当你打字时，自动大狗叫和叮咚鸡",
-    "createdAt": "2026-08-04T02:57:08Z",
-    "pushedAt": "2026-08-04T03:27:08Z",
-    "stars": 0,
-    "forks": 0,
-    "language": "C#",
-    "archived": false
-  },
   "yunmyuki/wenwen-jiezhu-ni": {
     "fullName": "yunmyuki/wenwen-jiezhu-ni",
     "url": "https://github.com/yunmyuki/wenwen-jiezhu-ni",
@@ -1723,6 +1712,17 @@
     "pushedAt": "2026-05-26T07:08:16Z",
     "stars": 2,
     "forks": 0,
+    "language": null,
+    "archived": false
+  },
+  "younghusband/huawei-od-active-manage": {
+    "fullName": "Younghusband/huawei-od-active-manage",
+    "url": "https://github.com/Younghusband/huawei-od-active-manage",
+    "description": "华为式主动管理",
+    "createdAt": "2025-06-30T11:32:49Z",
+    "pushedAt": "2025-06-30T11:24:53Z",
+    "stars": 469,
+    "forks": 304,
     "language": null,
     "archived": false
   },
@@ -1737,13 +1737,24 @@
     "language": null,
     "archived": false
   },
+  "ywhhhhhhh/dagoujiao": {
+    "fullName": "ywhhhhhhh/dagoujiao",
+    "url": "https://github.com/ywhhhhhhh/dagoujiao",
+    "description": "当你打字时，自动大狗叫和叮咚鸡",
+    "createdAt": "2026-08-04T02:57:08Z",
+    "pushedAt": "2026-08-04T03:27:08Z",
+    "stars": 0,
+    "forks": 0,
+    "language": "C#",
+    "archived": false
+  },
   "zhaoolee/chinesebqb": {
     "fullName": "zhaoolee/ChineseBQB",
     "url": "https://github.com/zhaoolee/ChineseBQB",
     "description": "🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~",
     "createdAt": "2019-05-08T05:39:41Z",
     "pushedAt": "2026-09-12T03:54:02Z",
-    "stars": 16148,
+    "stars": 16155,
     "forks": 1335,
     "language": "Python",
     "archived": false
@@ -1759,17 +1770,6 @@
     "language": "Python",
     "archived": false
   },
-  "zijie0/humansystemoptimization": {
-    "fullName": "zijie0/HumanSystemOptimization",
-    "url": "https://github.com/zijie0/HumanSystemOptimization",
-    "description": "健康学习到150岁 - 人体系统调优不完全指南",
-    "createdAt": "2022-05-22T13:28:46Z",
-    "pushedAt": "2025-09-10T05:52:06Z",
-    "stars": 21834,
-    "forks": 1513,
-    "language": null,
-    "archived": false
-  },
   "zkllab/cxk-2048-react": {
     "fullName": "ZKLlab/cxk-2048-react",
     "url": "https://github.com/ZKLlab/cxk-2048-react",
@@ -1781,13 +1781,24 @@
     "language": "TypeScript",
     "archived": false
   },
+  "zijie0/humansystemoptimization": {
+    "fullName": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization",
+    "description": "健康学习到150岁 - 人体系统调优不完全指南",
+    "createdAt": "2022-05-22T13:28:46Z",
+    "pushedAt": "2025-09-10T05:52:06Z",
+    "stars": 21834,
+    "forks": 1512,
+    "language": null,
+    "archived": false
+  },
   "zoffyultraman/astrbot_plugin_manbo-tts": {
     "fullName": "zoffyultraman/astrbot_plugin_manbo-tts",
     "url": "https://github.com/zoffyultraman/astrbot_plugin_manbo-tts",
     "description": "基于api生成曼波语音",
     "createdAt": "2026-02-27T00:59:48Z",
     "pushedAt": "2026-04-22T02:33:43Z",
-    "stars": 13,
+    "stars": 14,
     "forks": 2,
     "language": "Python",
     "archived": false
@@ -1798,7 +1809,7 @@
     "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个在游玩过程中由 AI 实时生成全部图文内容的互动剧情游戏",
     "createdAt": "2026-06-02T02:49:30Z",
     "pushedAt": "2026-07-08T03:14:03Z",
-    "stars": 381,
+    "stars": 382,
     "forks": 56,
     "language": "TypeScript",
     "archived": false
